@@ -1,0 +1,5 @@
+name,status,progress,consumption,temperature,time,cpu-usage,id
+machine1,running,95,85,35,120,13,1001
+machine2,warning,5,15,18,5,4,1002
+machine3,running,85,65,25,120,4,1003
+machine4,fatal,3,280,44,270,73,1004
