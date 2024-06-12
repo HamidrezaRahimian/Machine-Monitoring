@@ -2,7 +2,8 @@
 monitoring data with using API , CSV , Python , Json through Grafana
 
 the whole programmed was coded online .
-turn on the company VPN and click on the link .
+turn on the company VPN and check it out.
+
 ![image](https://github.com/HamidrezaRahimian/Machine-Monitoring/assets/143603503/87452976-675b-4566-96dd-7e326438cd6d)
 
 
