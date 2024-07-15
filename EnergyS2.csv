@@ -1,0 +1,841 @@
+N ,L1,,Sicherung,mm^2,L2,,Sicherung,mm^2,L3,,Sicherung,mm^2
+1,Schaltschrankleuchte,-1F4,63A/16A,2.5,E-308-EG-01,-1Q02,NH00/63A,16,E-308-EG-01,-1Q02,NH00/63A,16
+1,E-308-EG-01,-1Q02,NH00/63A,16,E-308-1.OG-01,-1Q03,NH00/63A,16,E-308-1.OG-01,-1Q03,NH00/63A,16
+1,E-308-1.OG-01,-1Q03,NH00/63A,16,E-308-2.OG-01,-1Q04,NH00/63A,16,E-308-2.OG-01,-1Q04,NH00/63A,16
+1,E-308-2.OG-01,-1Q04,NH00/63A,16,E-308-3.OG-01,-1Q05,NH00/63A,16,E-308-3.OG-01,-1Q05,NH00/63A,16
+1,E-308-3.OG-01,-1Q05,NH00/63A,16,E-308-4.OG-01,-1Q06,NH00/63A,16,E-308-4.OG-01,-1Q06,NH00/63A,16
+1,E-308-4.OG-01,-1Q06,NH00/63A,16,Schrank Pumensteuerung,-1Q07,NH00/63A,1,Schrank Pumensteuerung,-1Q07,NH00/63A,1
+1,Schrank Pumensteuerung,-1Q07,NH00/63A,1,UV- Kantine E-308-EG-03,-1Q08,NH00/63A,16,UV- Kantine E-308-EG-03,-1Q08,NH00/63A,16
+1,UV- Kantine E-308-EG-03,-1Q08,NH00/63A,16,UV-Pförtner E-Pforte-EG-01,-1Q09,NH00/100A,25,UV-Pförtner E-Pforte-EG-01,-1Q09,NH00/100A,25
+1,UV-Pförtner E-Pforte-EG-01,-1Q09,NH00/100A,25,H308-Heizungsnetz H-308-HW-01,-1Q10,NH00/63A,1,H308-Heizungsnetz H-308-HW-01,-1Q10,NH00/63A,1
+1,H308-Heizungsnetz H-308-HW-01,-1Q10,NH00/63A,1,Haupteingang Steckdosen Verteiler + Ladesäule E-Auto ,-1Q11,NH00/80A,1,Haupteingang Steckdosen Verteiler + Ladesäule E-Auto ,-1Q11,NH00/80A,1
+1,Haupteingang Steckdosen Verteiler + Ladesäule E-Auto ,-1Q11,NH00/80A,1,Schleuse 008,-2F2,10AB,1.5,Technik 001,-2F3,10AB,1.5
+1,Reserve A-Box 308 EG Ehm Telefonzelle,-2F1,10AB,1.5,Taster örtlich,-2F2,10AB,1.5,Notbeleuchtung,-2F6,10AB,1.5
+1,Schleuse 004  ,-2F4,10AB,1.5,Anschlußgas 002,-2F5,10AB,1.5,RWA Ost,-2F9,10AB,1.5
+1,Taster örtlich,-2F4,10AB,1.5,RWA West,-2F8,10AB,1.5,HWA Raum,-2F12,16AB,2.5
+1,Enthärter ,-2F7,10AB,1.5,GHV 009 Aufzeichnungsgerät,-2F11,16AB,2.5,Steuerspg-Heizungsschrank,-2F20,16AB,2.5
+1,Technik 001,-2F10,16AB,2.5,UV-Raum Schleuse ,-2F19,16AB,2.5,Siedle Sprachanlage,-2F14,16AB,2.5
+1,Relaisschrank,-2F13,10AB,1.5,Siedle Sprachanlage,-2F14,16AB,2.5,Tauchpumpe,-2F15,16AB,2.5
+1,Siedle Sprachanlage,-2F14,16AB,2.5,Tauchpumpe,-2F15,16AB,2.5,,,,
+1,Tauchpumpe ,-2F15,16AB,2.5,,,,,,,,
+,,,,,,,,,,,,
+2,Flur,0,10AB,"1,5",Kiosk 004,#VALUE!,10AB,1.5,Eingang Foyer Seile,#VALUE!,10AB,1.5
+2,Taster örtlich,0,10AB,"1,5","Vorraum WC-D 009,010",#VALUE!,10AB,1.5,Flur,#VALUE!,10AB,1.5
+2,3,#VALUE!,10AB,1.5,"Vorraum WC-H 012,013",#VALUE!,10AB,1.5,Taster örtlich,#VALUE!,10AB,1.5
+2,"Vorraum WC-H 014,015",#VALUE!,10AB,1.5,"26,023",#VALUE!,10AB,1.5,Layer 002,#VALUE!,10AB,1.5
+2,27,#VALUE!,10AB,1.5,"Umkld. , Dusche , WC 014,019",#VALUE!,10AB,1.5,Flur,#VALUE!,10AB,1.5
+2,Büro 002,#VALUE!,10AB,1.5,Reserve,#VALUE!,10AB,1.5,Taster örtlich,#VALUE!,10AB,1.5
+2,Taster örtlich,#VALUE!,10AB,1.5,BMZ-Versorgung,#VALUE!,10AB,1.5,"Umkld. , Dusche , WC 014,019",#VALUE!,10AB,1.5
+2,Notbeleuchtung,#VALUE!,10AB,1.5,Händetrockner,#VALUE!,10AB,1.5,Not Flur Küche,#VALUE!,10AB,1.5
+2,EDV Steckd. Verteilung bei UV-EG-01,#VALUE!,10AB,1.5,Kiosk 004 & Putzstkd,#VALUE!,16AB,2.5,Behindderten WC & Rufanlage,0,16AB,2.5
+2,Vorraum WC-H 015 & Vorraum WC-D 015,0,16AB,2.5,Flur 001 Putzsteckd.,-26023,16AB,2.5,AE Kiosk 004,#VALUE!,16AB,2.5
+2,Layer 002 & Putzsteckd.,#VALUE!,16AB,2.5,EDV D11,#VALUE!,16AB,2.5,"Büro 023,026,027 & Putzsteckd.",#VALUE!,16AB,2.5
+2,"AE Büro 023,026,027 Foyer",#VALUE!,16AB,2.5,Foyerzimmer West ,#VALUE!,16AB,2.5,Reserve,#VALUE!,16AB,2.5
+2,Foyerzimmer Ost(Pförtner),#VALUE!,16AB,2.5,Foyer A Rest Zimmer West,#VALUE!,16AB,2.5,Foyerzimmer Ost(Pförtner),#VALUE!,16AB,2.5
+2,Urinale WC-H 006,#VALUE!,16AB,2.5,Verkaufautomaten Kiosk + Türschließanlage,0,16AB,2.5,Reserve ,#VALUE!,16AB,2.5
+2,Reserve ,#VALUE!,16AB,2.5,Verkaufautomaten Kiosk,#VALUE!,16AB,2.5,Verkaufautomaten Kiosk,0,16AB,2.5
+2,Verkaufautomaten Kiosk,0,16AB,2.5,,,,,Verkaufautomaten Kiosk,#VALUE!,16AB,2.5
+2,Verkaufautomaten Kiosk,0,16AB,2.5,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+3,Bel. 01 & Taster örtlich,0,10AB,1.5,Bel. 02 & Taster örtlich,#VALUE!,10AB,1.5,Arbeitsbeleuchtung Einzellamoen,#VALUE!,10AB,1.5
+3,Steckd. Allgm,#VALUE!,16AB,2.5,Not Bel.,#VALUE!,16AB,2.5,Reserve Leisten,#VALUE!,16AB,2.5
+3,Arbeitsplatz 1,0,16AB,2.5,Arbeitplatz 2,0,16AB,2.5,Reserve Trasse,#VALUE!,16AB,2.5
+3,Reserve A-Box Trasse,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5,RT.,-26023,16AB,2.5
+3,RT.,#VALUE!,16AB,2.5,Arbeitssteckd.,#VALUE!,16AB,2.5,Res. Trasse.,#VALUE!,16AB,2.5
+3,Res. Terasse,#VALUE!,16AB,2.5,Arbeitssteckd.,#VALUE!,16AB,2.5,Arbeitssteckd.,#VALUE!,16AB,2.5
+3,Arbeitssteckd.,#VALUE!,16AB,2.5,Bel. Werkbank 5,#VALUE!,16AB,2.5,Steckdosen grauer Kanal,#VALUE!,16AB,2.5
+3,Reserve ,#VALUE!,16AB,2.5,Reserve,#VALUE!,16AB,2.5,Reserve,0,16AB,2.5
+3,Reserve ,0,16AB,2.5,Zeitgesteuert Foyer,0,16AB,2.5,Reserve A-Box Trasse,0,16AB,2.5
+3,Reserve A-Box Trasse,#VALUE!,16AB,2.5,Reserve A-Box Trasse,#VALUE!,16AB,2.5,,#VALUE!,16AB,2.5
+3,Reserve A-Box Trasse,0,16AB,2.5,Reserve A-Box Trasse,0,16AB,2.5,Reserve A-Box Trasse,0,16AB,2.5
+3,Reserve A-Box Trasse,#VALUE!,16AB,2.5,Reserve A-Box Trasse,#VALUE!,16AB,2.5,Reserve A-Box Trasse,#VALUE!,16AB,2.5
+3,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5
+3,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5
+3,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5
+3,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5
+3,Arbeitssteckd. 400V,#VALUE!,16AB,2.5,Arbeitssteckd. 400V,#VALUE!,16AB,2.5,Arbeitssteckd. 400V,#VALUE!,16AB,2.5
+3,Arbeitssteckd. 400V,#VALUE!,16AB,2.5,Arbeitssteckd. 400V,#VALUE!,16AB,2.5,Arbeitssteckd. 400V,#VALUE!,16AB,2.5
+3,AOT A-Box,#VALUE!,16AB,2.5,AOT A-Box,#VALUE!,16AB,2.5,AOT A-Box,#VALUE!,16AB,2.5
+3,Arbeitssteckd. 400V,#VALUE!,16AB,2.5,Arbeitssteckd. 400V,#VALUE!,16AB,2.5,Arbeitssteckd. 400V,#VALUE!,16AB,2.5
+3,Reserve ,#VALUE!,16AB,2.5,Reserve ,#VALUE!,16AB,2.5,Reserve ,#VALUE!,16AB,2.5
+3,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5
+3,Reserve ,#VALUE!,16AB,2.5,Reserve,#VALUE!,16AB,2.5,Reserve,#VALUE!,16AB,2.5
+3,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5,RT.,#VALUE!,16AB,2.5
+3,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5
+3,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5
+3,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5
+3,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5
+3,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5,Werkbank,#VALUE!,16AB,2.5
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+4,Treppenhaus klein(Küche),0,10AB,"1,5",Notbeleuchtung Treppe 07,#VALUE!,10AB ,"1,5",Treppe 011 Fahrstuhlseite Treppenhaus ,#VALUE!,10AB ,"1,5"
+4,Notbeleuchtung Treppe 011 Fahrstuhlseite ,#VALUE!,10AB,"1,5",Besprechung 016,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10AB ,"1,5"
+4,Treppenhaus / Flur 011 Fahrstuhlseite ,#VALUE!,10AB,"1,5",Taster örtlich,#VALUE!,10 AB ,"1,5",Besprechung 016 Downlights dimmbar ,#VALUE!,10AB ,"1,5"
+4,Taster örtlich ,#VALUE!,10AB,"1,5",Besprechung 016,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10AB ,"1,5"
+4,Besprechung 006 Downlights dimmbar ,#VALUE!,10AB,"1,5",Taster örtlich,#VALUE!,10 AB ,"1,5",Besprechung 016 Downlights dimmbar,#VALUE!,10AB ,"1,5"
+4,Taster örtlich ,#VALUE!,10AB,"1,5",Windfang 010 ,#VALUE!,10 AB ,"1,5",Taster örtlich,#VALUE!,10AB ,"1,5"
+4,Post 005,#VALUE!,10AB,"1,5",Taster örtlich,#VALUE!,10 AB ,"1,5","Arzt 008,009 BKK",#VALUE!,10AB ,"1,5"
+4,EDV Raum 013,#VALUE!,10AB ,"1,5",Besprechung 016 Downlights dimmbar ,#VALUE!,10 AB ,"1,5",UV-Schacht ,#VALUE!,10AB ,"1,5"
+4,Foyer 002 indirekt ,#VALUE!,10AB ,"1,5",Taster örtlich,#VALUE!,10 AB ,"1,5","Büromaterial 022,015",#VALUE!,10AB ,"1,5"
+4,Taster Tableau ,#VALUE!,10AB ,"1,5",Flur 007 ,#VALUE!,10 AB ,"1,5",Empfang 002 ,#VALUE!,10AB ,"1,5"
+4,Foyer 002f,0,10AB ,"1,5",Taster örtlich,#VALUE!,10 AB ,"1,5",Taster Tableau ,#VALUE!,10AB ,"1,5"
+4,Taster Tableau ,0,10AB ,"1,5",EDV-Betreuer 012 ,#VALUE!,10 AB ,"1,5",Empfang 002 ,#VALUE!,10AB ,"1,5"
+4,Foyer 002g,0,10AB ,"1,5",Empfang/Foyer 002,#VALUE!,10 AB ,"1,5",Taster Tableau ,#VALUE!,10AB ,"1,5"
+4,Taster Tableau ,0,10AB ,"1,5",Taster Tableau ,#VALUE!,10 AB ,"1,5",Foyer 002 ,0,10AB ,"1,5"
+4,Notbeleuchtung Foyer ,#VALUE!,10AB ,"1,5",Windfang 010 ,#VALUE!,10 AB ,"1,5",Taster Tableau ,0,10AB ,"1,5"
+4,Reserve,#VALUE!,16 AB ,"1,5",Taster Tableau ,#VALUE!,10 AB ,"1,5",Außenbereich Haupteingang ,#VALUE!,10AB ,"1,5"
+4,AE EDV Betreuer 012 Klimaanlage Server ,#VALUE!,16 AB ,"2,5",Notbeleuchtung Flur 07 Fahrstuhlseite ,-26023,10 AB ,"1,5",Dämmerungsschalter Usr Empfang ,#VALUE!,10AB ,"1,5"
+4,AE Post 005,#VALUE!,16 AB ,"2,5",Res,#VALUE!,16 AB ,"2,5",Notbeleuchtung Außen ,#VALUE!,10AB ,"1,5"
+4,Res Klimagerät 308 EDK EG + Verdämpfer Dach,#VALUE!,16 AB ,"2,5","AE Arzt BKK 008,009 Beamer + Jalousie Showroom ",#VALUE!,16 AB ,"2,5",AE EDV-VT 013 Serverschrank ,#VALUE!,16 AB ,"2,5"
+4,"Putzsteckdose EDV, Betreuer 013,012",0,16 AB,"2,5",Ae Empfang 002 ,#VALUE!,16 AB ,"2,5",Ae Besprechung 006 ,#VALUE!,16 AB ,"2,5"
+4,Putzsteckdose Foyer ,#VALUE!,16 AB,"2,5",Datenraum Kabel 5 ,0,16 AB ,"2,5",AE Besprechung 016 Bodentank Büromat  ,#VALUE!,16 AB ,"2,5"
+4,EDV VT1 Kamera EDV 308 EG ,#VALUE!,16 AB,"2,5",Putzsteckdose Flur 011 ,#VALUE!,16 AB ,"2,5",Putzsteckdose Büromaterial ,0,16 AB ,"2,5"
+4,CEE Nebenverterteilung 32 A,#VALUE!,63 A / 35 A ,6,Besprechungsraum ,#VALUE!,16 AB ,"2,5","Putzsteckdose Besprechung 006,016",#VALUE!,16 AB ,"2,5"
+4,CEE Nebenverteilung 16 A,#VALUE!,16 AB ,"2,5",EDV VT2 ,#VALUE!,16 AB ,"2,5",Serverschrank 2 ,#VALUE!,16 AB ,"2,5"
+4,,,,,CEE Nebenverterteilung 32 A,#VALUE!,63 A / 35 A ,6,Stromsignalgeber ,#VALUE!,/,/
+4,,,,,CEE Nebenverteilung 16 A,#VALUE!,16 AB ,"2,5",Zeiterfassung,#VALUE!,16 AB ,"2,5"
+4,,,,,,,,,CEE Nebenverterteilung 32 A,#VALUE!,63 A / 35 A ,6
+4,,,,,,,,,CEE Nebenverteilung 16 A,#VALUE!,16 AB ,"2,5"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+5,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+6,neu Raum 1 Gross,#VALUE!,10AB ,"1,5",neu Raum 2 klein,#VALUE!,10AB ,"1,5",Entwicklung 003,#VALUE!,10AB ,"1,5"
+6,3,#VALUE!,10AB ,"1,5",Entwicklung 003,#VALUE!,10AB ,"1,5",Entwicklung 003,#VALUE!,10AB ,"1,5"
+6,Buero PAC,#VALUE!,10AB ,"1,5",Personal 012,#VALUE!,10AB ,"1,5",Personal 022,#VALUE!,10AB ,"1,5"
+6,Buero 002,#VALUE!,10AB ,"1,5",Buero 002,#VALUE!,10AB ,"1,5",Buero 002,#VALUE!,10AB ,"1,5"
+6,Buero 002,#VALUE!,10AB ,"1,5",Entwicklung 002,#VALUE!,10AB ,"1,5",Perosnal 016,#VALUE!,10AB ,"1,5"
+6,Buero 001,#VALUE!,10AB ,"1,5",Besprechung 005,#VALUE!,10AB ,"1,5","WC-Herren 008,010",#VALUE!,10AB ,"1,5"
+6,"WC-Damen 007,009,015",#VALUE!,10AB ,"1,5",Treppenhaus 006,#VALUE!,10AB ,"1,5",Treppenhaus Verbindungsgang,0,10AB ,"1,5"
+6,"Buero 003,002",0,10AB ,"1,5",Steigeschacht,#VALUE!,10AB ,"1,5",Verbindungsgang 308-302,#VALUE!,10AB ,"1,5"
+6,Buero 003 AE,#VALUE!,16AB,"2,5",Buero 003 AE,#VALUE!,16AB,"2,5",Buero 003,#VALUE!,16AB,"2,5"
+6,"Buero 012,014",#VALUE!,16AB,"2,5","Buero 002,011",#VALUE!,16AB,"2,5","Buero 002,009 AE",#VALUE!,16AB,"2,5"
+6,"Buero 002,016 AE",#VALUE!,16AB,"2,5",Buero 003 AE,#VALUE!,16AB,"2,5",Buero 003 AE,0,16AB,"2,5"
+6,"Buero 003,005 AE",0,AB16,"2,5",Buero 003 AE,0,16AB,"2,5","Buero 003 AE ,002",0,16AB,"2,5"
+6,Putzsteckdose 006,#VALUE!,16AB,"2,5","Putzsteckdose 003,014",#VALUE!,16AB,"2,5","Putzsteckdose 001,002,011,012,016",#VALUE!,16AB,"2,5"
+6,E-308-1.OG-01-45,#VALUE!,16AB,"2,5",Reserve,#VALUE!,16AB,"2,5","Puzsteckdose 003,005",#VALUE!,16AB,"2,5"
+6,Res. Steckdose,#VALUE!,16AB,"2,5",Notlicht ueber Fahrstuhl,#VALUE!,16AB,"2,5",Res.,-1F63,16AB,"2,5"
+6,Res.,-1F64,16AB,"2,5",Res.,-1F65,16AB,"2,5",Res,-1F66,16AB,"2,5"
+6,steckdose 1 2 3,#VALUE!,16AB,"2,5",steckdose 1 2 3,#VALUE!,16AB,"2,5",steckdose 1 2 3,#VALUE!,16AB,"2,5"
+6,"WC-H WC-D Worr.-H,D . Rumi",#VALUE!,16AB,"2,5",Urinale WC-H,#VALUE!,16AB,"2,5",Teekueche,#VALUE!,16AB,"2,5"
+6,Geschirrspueler Teekueche,#VALUE!,16AB,"2,5",Teekueche,#VALUE!,16AB,"2,5",Reserve,#VALUE!,16AB,"2,5"
+6,Herdanschluss,#VALUE!,16AB,"2,5",Herdanschluss,#VALUE!,16AB,"2,5",Herdanschluss,#VALUE!,16AB,"2,5"
+6,Teekueche,#VALUE!,16AB,"2,5",Geschirrspueler Teekueche,#VALUE!,16AB,"2,5",Teekueche,#VALUE!,16AB,"2,5"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+7,ENG 003,0,10 AB ,"1,5",ENG 003,#VALUE!,10 AB ,"1,5",ENG 003,#VALUE!,10 AB ,"1,5"
+7,Taster ,0,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5"
+7,ENG 003,#VALUE!,10 AB ,"1,5",ENG 003,#VALUE!,10 AB ,"1,5",ENG 003,#VALUE!,10 AB ,"1,5"
+7,Taster ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5"
+7,ENG 003,#VALUE!,10 AB ,"1,5",ENG 002,#VALUE!,10 AB ,"1,5",ENG 002,#VALUE!,10 AB ,"1,5"
+7,Taster ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5"
+7,ENG 002,#VALUE!,10 AB ,"1,5",ENG 002,#VALUE!,10 AB ,"1,5",ENG 002,#VALUE!,10 AB ,"1,5"
+7,Taster ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5"
+7,ENG 002,#VALUE!,10 AB ,"1,5","WC-H 006, 010 Pumi ",#VALUE!,10 AB ,"1,5","WC-D, Vorr. WC-D 015 Pumi 011,007 009 ",#VALUE!,10 AB ,"1,5"
+7,Taster ,#VALUE!,10 AB ,"1,5",Notbel. 006,#VALUE!,10 AB ,"1,5","Notbel. 003, 002",#VALUE!,10 AB ,"1,5"
+7,ENG 002,#VALUE!,10 AB ,"1,5",Büro 003 AE,#VALUE!,10 AB ,"1,5",Büro 003 AE,0,10 AB ,"1,5"
+7,Taster ,#VALUE!,10 AB ,"1,5",Büro 003 AE ,#VALUE!,16 AB ,"2,5",Büro 002 AE,#VALUE!,16 AB ,"2,5"
+7,"Büro 004, 005",#VALUE!,10 AB ,"1,5",Büro 002 AE ,-26023,16 AB ,"2,5",Büro 002 AE,#VALUE!,16 AB ,"2,5"
+7,Treppenhaus,#VALUE!,10 AB ,"1,5",Büro 003 AE ,#VALUE!,16 AB ,"2,5",Büro 003 AE,#VALUE!,16 AB ,"2,5"
+7,Taster,#VALUE!,10 AB ,"1,5",Büro 003 AE ,#VALUE!,16 AB ,"2,5",Büro 003 AE,#VALUE!,16 AB ,"2,5"
+7,UV-018 Bel. Schacht ,#VALUE!,10 AB ,"1,5",Büro 002 ,#VALUE!,16 AB ,"2,5",Büro 002 ,#VALUE!,16 AB ,"2,5"
+7,Büro 003 AE ,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5"
+7,Büro 002 AE,#VALUE!,16 AB ,"2,5",Putzsteckdose 002,0,16 AB ,"2,5",Reserve ,#VALUE!,16 AB ,"2,5"
+7,Büro 003 AE ,#VALUE!,16 AB ,"2,5","Putzsteckdose 004, 005",#VALUE!,16 AB ,"2,5",E-308-2.OG-01-45,#VALUE!,16 AB ,"2,5"
+7,Büro 004 ,#VALUE!,16 AB ,"2,5",Küche || ,#VALUE!,16 AB ,"2,5",Küche || ,#VALUE!,16 AB ,"2,5"
+7,Büro 003 AE,#VALUE!,16 AB ,"2,5",Küche | ,#VALUE!,16 AB ,"2,5",Reserve ,#VALUE!,16 AB ,"2,5"
+7,Büro 002,#VALUE!,16 AB ,"2,5",Küche Nordwest,#VALUE!,16 AB ,"2,5",BR- Kanal unter Bildschirm,#VALUE!,16 AB ,"2,5"
+7,Putzsteckdose 003,0,16 AB ,"2,5",Urinale WC-H,#VALUE!,16 AB ,"2,5",Reserve Büroküche,#VALUE!,16 AB ,"2,5"
+7,Türantrieb Mitte Res,#VALUE!,16 AB ,"2,5",,,,,,,,
+7,Res-bmbn,#VALUE!,16 AB ,"2,5",,,,,,,,
+7,Zutrittskontrolle Res,#VALUE!,16 AB ,"2,5",,,,,,,,
+7,Küche Südwest ,#VALUE!,16 AB ,"2,5",,,,,,,,
+7,WC-D Vorr. WC-D WC-H Vorr. WC-H,#VALUE!,16 AB ,"2,5",,,,,,,,
+7,Reserve,#VALUE!,16 AB ,"2,5",,,,,,,,
+,"
+",,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+8,Buero,0,10AB ,"1,5",Buero 013,#VALUE!,10AB ,"1,5",Buero 013,#VALUE!,10AB ,"1,5"
+8,Buero 013,#VALUE!,10AB ,"1,5",Buero 013,#VALUE!,10AB ,"1,5",Buero 013,#VALUE!,10AB ,"1,5"
+8,Buero 014,#VALUE!,10AB ,"1,5",Buero 014,#VALUE!,10AB ,"1,5",Buero 014,#VALUE!,10AB ,"1,5"
+8,Buero 014 Taster,#VALUE!,10AB ,"1,5",Buero 014 Taster,#VALUE!,10AB ,"1,5",Buero 014 Taster,#VALUE!,10AB ,"1,5"
+8,Buero 004,#VALUE!,10AB ,"1,5",Treppenhaus 005 Taster,#VALUE!,10AB ,"1,5",EDV 012,#VALUE!,10AB ,"1,5"
+8,"WV-H 011,008",#VALUE!,10AB ,"1,5","WC-D 007,009",#VALUE!,10AB ,"1,5","Notleuchten 014,013",#VALUE!,10AB ,"1,5"
+8,Notöeuchten Flur005,#VALUE!,16AB,"2,5",AE EDV 012 Buero 013,#VALUE!,16AB,"2,5",Besprech. 1,0,16AB,"2,5"
+8,"WC-Damen 007,009,015",#VALUE!,16AB,"2,5",Treppenhaus 006,#VALUE!,16AB,"2,5",Treppenhaus Verbindungsgang,0,16AB,"2,5"
+8,Buero 013 AE,0,16AB,"2,5",Tel. Konter,#VALUE!,16AB,"2,5",Buero 014 AE,#VALUE!,16AB,"2,5"
+8,Buero 003 AE,#VALUE!,16AB,"2,5",Buero 014 AE,-26023,16AB,"2,5",Buero 014 AE,#VALUE!,16AB,"2,5"
+8,Buero 013 AE,#VALUE!,16AB,"2,5",Buero 013 AE,#VALUE!,16AB,"2,5",Buero 013 AE,#VALUE!,16AB,"2,5"
+8,Buero 003 AE,#VALUE!,16AB,"2,5","Buro 013,013 AE",#VALUE!,16AB,"2,5",Buero 014 AE,#VALUE!,16AB,"2,5"
+8,Besprechung 2,#VALUE!,16AB,"2,5",Buero 013 AE,-35,16AB,"2,5",Druckerraum 1,#VALUE!,16AB,"2,5"
+8,EDV 012,#VALUE!,16AB,"2,5",EDV 012,0,16AB,"2,5",Datenschrank Kabel 7,0,16AB,"2,5"
+8,Datenschrank Kabel 8,0,16AB,"2,5","Putzsteckdose 013,014",0,16AB,"2,5",Putsteckdose Flur 005,#VALUE!,16AB,"2,5"
+8,Tel. Konter 1,#VALUE!,16AB,"2,5",Putzsteckdose 001,#VALUE!,16AB,"2,5",Putzsteckdose 004,#VALUE!,16AB,"2,5"
+8,Moskaw,#VALUE!,16AB,"2,5",Putzsteckdose 012,#VALUE!,16AB,"2,5",Antrieb Tur mitte,#VALUE!,16AB,"2,5"
+8,Res. Steckdose,#VALUE!,16AB,"2,5",Steigeschacht,#VALUE!,16AB,"2,5",Reserve,#VALUE!,16AB,"2,5"
+8,Teekueche,#VALUE!,16AB,"2,5",Teekueche,#VALUE!,16AB,"2,5",Teekueche,#VALUE!,16AB,"2,5"
+8,WC-H WC-D Vor.. D Pumi 010 - Vorr-H,#VALUE!,16AB,"2,5",Urinale WC-H,#VALUE!,16AB,"2,5",Teekueche oben links,#VALUE!,16AB,"2,5"
+8,Reserve,#VALUE!,16AB,"2,5",Teekueche oben rechts,#VALUE!,16AB,"2,5",Geschirspueller,#VALUE!,16AB,"2,5"
+8,Reserve,#VALUE!,16AB,"2,5",Herdanschluss 014 Res,#VALUE!,16AB,"2,5",Herdanschluss 014 Res,#VALUE!,16AB,"2,5"
+8,Herdanschluss 014 Res,#VALUE!,16AB,"2,5",Teekueche 014,#VALUE!,16AB,"2,5",Geschirspueller,#VALUE!,16AB,"2,5"
+8,Drucker 2,#VALUE!,16AB,"2,5",CEE,-3,63A/16A,4,CEE,-3,63A/16A,4
+8,CEE,-3,63A/16A,4,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+9,Büro 014,0,10 AB ,"1,5",Büro 014,#VALUE!,10 AB ,"1,5",Büro 014,#VALUE!,10 AB ,"1,5"
+9,Taster ,0,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5"
+9,"Büro 015, 016",#VALUE!,10 AB ,"1,5",Büro 017,#VALUE!,10 AB ,"1,5","Büro 001,002,003",#VALUE!,10 AB ,"1,5"
+9,Büro 005,#VALUE!,10 AB ,"1,5",Büro 019 ,#VALUE!,10 AB ,"1,5",Flur 020 ,#VALUE!,10 AB ,"1,5"
+9,Taster ,#VALUE!,10 AB ,"1,5",Flur 007 Treppe ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5"
+9,Büro 005,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5",EDV-VT 012 ,#VALUE!,10 AB ,"1,5"
+9,Taster ,#VALUE!,10 AB ,"1,5","WC-D 010, Vorr. WC-D 008",#VALUE!,10 AB ,"1,5",Abstellraum unter Treppe,#VALUE!,10 AB ,"1,5"
+9,Flur 021,#VALUE!,10 AB ,"1,5",Notleuchten Flur 007,#VALUE!,10 AB ,"1,5",Abstellraum UV-Schacht ,#VALUE!,10 AB ,"1,5"
+9,Taster ,#VALUE!,10 AB ,"1,5",AE EDV 012 ,#VALUE!,16 AB ,"2,5",Büro 014 AE ,0,16 AB ,"2,5"
+9,"WC-H 011, Vorr. WC-H 009",#VALUE!,10 AB ,"1,5","Büro 014, 015 AE ",#VALUE!,16 AB ,"2,5","Büro 016, 017 AE",#VALUE!,16 AB ,"2,5"
+9,"Notleuchten Flur 020, 021",#VALUE!,10 AB ,"1,5","Büro 002, 003 AE",-26023,16 AB ,"2,5",Büro 005 AE,#VALUE!,16 AB ,"2,5"
+9,Tür ,#VALUE!,10 AB ,"1,5",Büro 005 AE Büro 013,#VALUE!,16 AB ,"2,5","Büro 005, 019 AE",#VALUE!,16 AB ,"2,5"
+9,Büro 014 AE Büro 14.1 + Lichtband Fenster,0,16 AB ,"2,5",Büro 005 AE,#VALUE!,16 AB ,"2,5",AE Büro 016 MS,#VALUE!,16 AB ,"2,5"
+9,"Büro 001, 002 AE",#VALUE!,16 AB ,"2,5",Putzsteckdose 014 ,#VALUE!,16 AB ,"2,5",5. OG Dach ,#VALUE!,16 AB ,"2,5"
+9,Büro 005 AE Flur 005 ,#VALUE!,16 AB ,"2,5",Reserve ,0,16 AB ,"2,5",Putzsteckd. Treppe 4.OG,#VALUE!,16 AB ,"2,5"
+9,Büro 005 AE,#VALUE!,16 AB ,"2,5",Res ,#VALUE!,16 AB ,"2,5","Putzsteckd. 001,002,003,005,019",#VALUE!,16 AB ,"2,5"
+9,Büro 014 AE ,#VALUE!,16 AB ,"2,5",Putzsteckd. EDV VT1 Raum 012,#VALUE!,16 AB ,"2,5",EDV VT1 012,#VALUE!,16 AB ,"2,5"
+9,"Flur 020, 021",0,16 AB ,"2,5",Res,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+9,Hupe BMA,#VALUE!,16 AB ,"2,5",Das Büro ,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+9,Zutritskontrolle 014 ,#VALUE!,16 AB ,"2,5",Reserve ,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+9,EDV VT2 012,#VALUE!,16 AB ,"2,5",Notlicht M.H. 5. OG ,0,10 AB ,"1,5",Reserve,0,16 AB ,"2,5"
+9,Reserve,#VALUE!,16 AB ,"2,5",Herdanschluss 020,#VALUE!,16 AB ,"2,5",Herdanschluss 020,#VALUE!,16 AB ,"2,5"
+9,Reserve,#VALUE!,16 AB ,"2,5",Urinale WC-H,#VALUE!,16 AB ,"2,5",Teeküche ,#VALUE!,16 AB ,"2,5"
+9,5. OG,#VALUE!,10 AB ,"1,5",Teeküche 020 Kühlschrank ,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+9,Reserve,0,16 AB ,"2,5",Herdanschluss 021,#VALUE!,16 AB ,"2,5",Herdanschluss 021,#VALUE!,16 AB ,"2,5"
+9,Herdanschluss 020,#VALUE!,16 AB ,"2,5",Teeküche 021 Kühlschrank ,#VALUE!,16 AB ,"2,5",Mikrowelle 021,#VALUE!,16 AB ,"2,5"
+9,"Vorr. D 008 WC-D 010, Pumi Vorr H 009 ",#VALUE!,16 AB ,"2,5",Außenwerbung ,-74,16 AB ,"2,5",Außenwerbung ,-74,16 AB ,"2,5"
+9,Teeküche 020 ,#VALUE!,16 AB ,"2,5",CEE Steckdose 21A Verteilungskabine ,-3,63A /35A,6,CEE Steckdose 21A Verteilungskabine ,-3,63A /35A,6
+9,Mikrowelle 020 ,#VALUE!,16 AB ,"2,5",CEE 16 A Verteilungskabine,#VALUE!,63A /35A,6,CEE 16 A Verteilungskabine,#VALUE!,63A /35A,6
+9,Herdanschluss 021,#VALUE!,16 AB ,"2,5",Aufzugsraum 5.OG CEE- Steckdose+ Schuko Steckdose,#VALUE!,63A /35A,6,Aufzugsraum 5.OG CEE- Steckdose+ Schuko Steckdose,#VALUE!,63A /35A,6
+9,Teeküche 021 Vorr. H 009 ,#VALUE!,16 AB ,"2,5",CEE 16 A ,#VALUE!,63A /35A,6,CEE 16 A ,#VALUE!,63A /35A,6
+9,Außenwerbung ,0,16 AB ,"2,5",,,,,,,,
+9,CEE Steckdose 21A Verteilungskabine ,-3,63A /35A,6,,,,,,,,
+9,CEE 16 A Verteilungskabine,#VALUE!,63A /35A,6,,,,,,,,
+9,Aufzugsraum 5.OG CEE- Steckdose+ Schuko Steckdose,#VALUE!,63A /35A,6,,,,,,,,
+9,CEE 16 A ,#VALUE!,63A /35A,6,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+10,AE 03 BR-Kanal,0,16AC,"2,5",AE 03 BR-Kanal,#VALUE!,16AC,"2,5",AE 04 BR-Kanal,#VALUE!,16AC,"2,5"
+10,AE 04 BR-Kanal,#VALUE!,16AC,"2,5",Videoueberwachung serverraum,#VALUE!,16AC,"2,5",D04 302 OG,#VALUE!,16AC,"2,5"
+10,Telefonzentrale unter fussboden serverschrank 2,#VALUE!,16AC,"2,5",Telefonzentrale unter fussboden serverschrank 3,#VALUE!,16AC,"2,5",Telefonzentrale unter fussboden serverschrank 4,#VALUE!,16AC,"2,5"
+10,Telefonzentrale unter fussboden serverschrank 5,#VALUE!,16AC,"2,5",D04 302 OG,#VALUE!,16AC,"2,5",Reserve,#VALUE!,16AC,"2,5"
+10,D99 Schrank 5,#VALUE!,16AC,"2,5",D99 Schrank 1,#VALUE!,16AC,"2,5",D99 Schrank 2,#VALUE!,16AC,"2,5"
+10,D99 Scharank 3 ,#VALUE!,16AC,"2,5",D99 Schrank 4,#VALUE!,16AC,"2,5",D03 Hr 308 4.OG,#VALUE!,16AC,"2,5"
+10,Schrank 3,#VALUE!,16AC,"2,5",Schrank 3,#VALUE!,16AC,"2,5",D02 Schrank 1 308 3.OG,0,16AC,"2,5"
+10,D02 Schrank 2 308 3.OG,0,16AC,"2,5",D01 Schrank 2 308 EG,#VALUE!,16AC,"2,5",D01 Schrank 1 308 EG,#VALUE!,16AC,"2,5"
+10,D99 11A,0,16A,6,Reserve ,0,63A/,6,Reserve 6,0,16A,6
+10,Reserve,0,22AC,6,Reserve 5,0,16A,6,Reserve ,#VALUE!,16AC,"2,5"
+10,Reserve 4,0,16A,"2,5",Server 6 ,#VALUE!,16AC,"2,5",Reserve ,#VALUE!,16AC,"2,5"
+10,Dgg Schrank 2,#VALUE!,16AC,"2,5",Reserve ,#VALUE!,16AC,"2,5",,,,
+10,Reserve ,#VALUE!,16AC,"2,5",Reserve ,0,16AC,"2,5",,,,
+10,Reserve ,#VALUE!,16AC,"2,5",,,,,,,,
+,,,,,,,,,,,,
+11,Trafo 017 ,0,10 AB ,"1,5",MSHV 018,#VALUE!,10 AB ,"1,5",Heizung/Sani 016 ,#VALUE!,10 AB ,"1,5"
+11,E-302-UG-01-04,#VALUE!,10 AB ,"1,5",NSHV,#VALUE!,10 AB ,"1,5",Aufenthalt 015,#VALUE!,10 AB ,"1,5"
+11,Dusche Damen 014,#VALUE!,10 AB ,"1,5",WC-Damen 013,#VALUE!,10 AB ,"1,5",Umkleide Damen 011 Hagoraum neu ,#VALUE!,10 AB ,"1,5"
+11,Umkleide Herren ,#VALUE!,10 AB ,"1,5","Flur 005,011",#VALUE!,10 AB ,"1,5",Flur 2 022 ,#VALUE!,10 AB ,"1,5"
+11,Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5"
+11,Umkleide Herren 009,#VALUE!,10 AB ,"1,5","Archiv 003,004",#VALUE!,10 AB ,"1,5",Flur 22+25,#VALUE!,10 AB ,"1,5"
+11,Taster örtlich ,#VALUE!,10 AB ,"1,5","Notbeleuchtung Trago, MSHV 020 NSHV 016",#VALUE!,10 AB ,"1,5",Taster örtlich,#VALUE!,10 AB ,"1,5"
+11,UV-Raum 023,#VALUE!,10 AB ,"1,5","Flur 010, Notstrom NSHV, Flur 005 MSHV FLur 022",#VALUE!,16 AB ,"2,5","Notbeleuchtung 010, 005",#VALUE!,10 AB ,"1,5"
+11,Waschen Damen 012,#VALUE!,10 AB ,"1,5",Putzsteckdosen Flur 004 ,#VALUE!,16 AB ,"2,5","MSHV, NSHV",0,16 AB ,"2,5"
+11,Taster örtlich ,#VALUE!,10 AB ,"1,5",Argonzentrale,#VALUE!,10 AB ,"1,5",Putzsteckdosen Umkleide Damen,#VALUE!,16 AB ,"2,5"
+11,Argon Löschanlage ,#VALUE!,16 AB ,"2,5",Argonzentrale,#VALUE!,16 AB ,"2,5",Waschen Herren 006,#VALUE!,16 AB ,"2,5"
+11,Putzsteckdose Aufenthaltsraum 015 Heizung/San.,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",Taster örtlich ,#VALUE!,16 AB ,"2,5"
+11,Putzsteckdose Umkleide Herren ,#VALUE!,16 AB ,"2,5",Waschen Damen ,#VALUE!,10 AB ,"1,5",Waschen Herren 006,#VALUE!,16 AB ,"2,5"
+11,Dusche Herren 007 WC-Herren 008,#VALUE!,16 AB ,"2,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,16 AB ,"2,5"
+11,Reserve,0,16 AB ,"2,5",Tauchpumpe ,#VALUE!,16 AB ,"2,5",UV-Raum ,#VALUE!,16 AB ,"2,5"
+11,Technikraum ,0,16 AB ,"2,5",Waschen Damen 012,#VALUE!,16 AB ,"2,5",Begleithzg Pumpenraum,0,16 AB ,"2,5"
+11,Tauchpumpe ,#VALUE!,16 AB ,"2,5",WC Herren 008,#VALUE!,16 AB ,"2,5",Tauchpumpe ,#VALUE!,16 AB ,"2,5"
+11,Waschen Damen 012 WC Damen 013,-26023,16 AB ,"2,5",Zutritskontrolle Serverraum ,#VALUE!,10 AB ,"1,5",Waschen Herren 006,#VALUE!,16 AB ,"2,5"
+11,Putzsteckdose Waschen Herren ,#VALUE!,16 AB ,"2,5",Haartrockner ,#VALUE!,16 AB ,"2,5",R. 004,#VALUE!,16 AB ,"2,5"
+11,Urinale WC Herren ,#VALUE!,16 AB ,"2,5",,,,,Reserve ,#VALUE!,10 AB ,"1,5"
+11,Pausengang ,#VALUE!,10 AB ,"1,5",,,,,Reserve 6,#VALUE!,16 AB ,"2,5"
+11,Notbel Flur ,#VALUE!,16 AB ,"2,5",,,,,,,,
+,,,,,,,,,,,,
+12,Telefonzentrale ,0,10 AB ,1.5,Putzsteckdose Telefonzentrale ,#VALUE!,16 AB ,"2,5",Br-Kanal Links,#VALUE!,16 AB ,"2,5"
+12,Br - Kanal Rechts ,#VALUE!,16 AB ,"2,5",099 Schrank 1,#VALUE!,16 AB ,"2,5",099 Schrank 2,#VALUE!,16 AB ,"2,5"
+12,099 Schrank ,#VALUE!,16 AB ,"2,5",099 Schrank 3 ,#VALUE!,16 AB ,"2,5",099 SChrank 5 ,#VALUE!,10 AB ,"1,5"
+12,unter Fußboden Serverschrank ,#VALUE!,10 AB ,"1,5",unter Fußboden Serverschrank 3,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+12,Siemens,#VALUE!,16 AB ,"2,5",unter Fußboden Serverschrank 4,#VALUE!,16 AB ,"2,5",unter Fußboden Serverschrank 5,#VALUE!,16 AB ,"2,5"
+12,Reserve Umluftgerät,-Q16 / 63 A,35 A,6,Reserve Umluftgerät,-Q16 / 63 A,35 A,6,Reserve Umluftgerät,-Q16 / 63 A,35 A,6
+12,Schrank 1 ,0,63A / 16 A,6,Reserve ,0,63 A / 35 A,6,,,,
+,,,,,,,,,,,,
+13,IC-FND3-003,0,10 AB ,"1,5",IC-IN03-003,#VALUE!,10 AB ,"1,5",IC-IND3-003,#VALUE!,10 AB ,"1,5"
+13,Taster örtlich ,0,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5"
+13,IC-IND-003,#VALUE!,10 AB ,"1,5",3,#VALUE!,10 AB ,"1,5",3,#VALUE!,10 AB ,"1,5"
+13,Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5"
+13,IC-IND-003,#VALUE!,10 AB ,"1,5",Reserve ,#VALUE!,10 AB ,"1,5",Reserve,#VALUE!,10 AB ,"1,5"
+13,Taster örtlich ,#VALUE!,10 AB ,"1,5","Flur 4, Flurachse 14",#VALUE!,10 AB ,"1,5",WC Damen 008,#VALUE!,10 AB ,"1,5"
+13,Reserver,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster ,#VALUE!,10 AB ,"1,5"
+13,Reserve,#VALUE!,10 AB ,"1,5",Teeküche ,#VALUE!,10 AB ,"1,5",Flur 1 015 ,#VALUE!,10 AB ,"1,5"
+13,WC Herren 009,#VALUE!,10 AB ,"1,5",14,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5"
+13,RES,#VALUE!,10 AB ,"1,5",Treppenhaus 006,#VALUE!,10 AB ,"1,5",Flur 1 006 ,0,10 AB ,"1,5"
+13,Treppenhaus 002,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich,0,10 AB ,"1,5"
+13,Taster örtlich ,#VALUE!,10 AB ,"1,5","Notbeleuchtung Flur 012,017,014",#VALUE!,10 AB ,"1,5",Notbeleuchtung 003,#VALUE!,10 AB ,"1,5"
+13,Notbeleuchtung Trepph. 006,0,10 AB ,"1,5",Res ,-26023,10 AB ,"1,5",Zeiterfassung Labor 01-27,#VALUE!,10 AB ,"1,5"
+13,RES,#VALUE!,10 AB ,"1,5",Res ,#VALUE!,16 AB ,"2,5",AE-003,#VALUE!,16 AB ,"2,5"
+13,Reserve,#VALUE!,10 AB ,"1,5",AE-003,#VALUE!,16 AB ,"2,5",AE-003 beschriftet mit 37,#VALUE!,16 AB ,"2,5"
+13,AE-003,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+13,AE-003,#VALUE!,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5"
+13,Reserve,#VALUE!,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",AE-003,#VALUE!,16 AB ,"2,5"
+13,Reserver,0,16 AB ,"2,5",AE-003,#VALUE!,16 AB ,"2,5",AE-003,#VALUE!,16 AB ,"2,5"
+13,AE-003,#VALUE!,16 AB ,"2,5",Budapest,#VALUE!,16 AB ,"2,5",AE-003,#VALUE!,16 AB ,"2,5"
+13,AE-003,#VALUE!,16 AB ,"2,5","Putzsteckd. 013,015",#VALUE!,16 AB ,"2,5",Putzsteckd. 003,#VALUE!,16 AB ,"2,5"
+13,Büro,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Putzsteckd. Flur 4,#VALUE!,16 AB ,"2,5"
+13,Reserve,#VALUE!,16 AB ,"2,5",Büro,#VALUE!,16 AB ,"2,5",UV Raum,#VALUE!,16 AB ,"2,5"
+13,Zeiterfassung,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Herd teekuche 007,#VALUE!,16 AB ,"2,5"
+13,Büro ,#VALUE!,16 AB ,"2,5",Herd teekuche 007,#VALUE!,16 AB ,"2,5",Teeküche,#VALUE!,16 AB ,"2,5"
+13,Herd teekuche 007,#VALUE!,16 AB ,"2,5",Teeküche ,#VALUE!,16 AB ,"2,5",Urinale WC-H,#VALUE!,16 AB ,"2,5"
+13,Teekuche 007,#VALUE!,16 AB ,"2,5","Putzsteckd WC-D 008, WC-H 009 ",#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+13,Teeküche 007,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",AE2,#VALUE!,16 AB ,"2,5"
+13,Not Aus Labor | Raum 018 ,-2F01,6 AB ,"1,5",AE1 18/1 ,#VALUE!,16 AB ,"2,5",Reserve ,0,16 AB ,"2,5"
+13,Reserve,#VALUE!,16 AB ,"2,5",AE 4 18 / 4 ,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5"
+13,Reserve,#VALUE!,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",AE2 19/2 ,#VALUE!,16 AB ,"2,5"
+13,AE 3  18/3 ,0,16 AB ,"2,5",AE1 19/1,#VALUE!,16 AB ,"2,5",AE 5 19/5,#VALUE!,16 AB ,"2,5"
+13,Reserve,0,16 AB ,"2,5",AE 4 19/4,#VALUE!,16 AB ,"2,5",AE2 20/2,#VALUE!,16 AB ,"2,5"
+13,Reserve,0,16 AB ,"2,5",AE ,#VALUE!,16 AB ,"2,5",Reserve ,#VALUE!,16 AB ,"2,5"
+13,AE 3 ,#VALUE!,16 AB ,"2,5",AE4 20/4,#VALUE!,16 AB ,"2,5",AE2,#VALUE!,16 AB ,"2,5"
+13,AE6 19/6 ,#VALUE!,16 AB ,"2,5",AE1 ,#VALUE!,16 AB ,"2,5",AE5 21/5,#VALUE!,16 AB ,"2,5"
+13,Res,#VALUE!,16 AB ,"2,5",AE4 21/4 ,#VALUE!,16 AB ,"2,5",Bel. Video Räume,0,16 AB ,"2,5"
+13,Reserve ,#VALUE!,16 AB ,"2,5",Res,#VALUE!,16 AB ,"2,5",Br Kanal Video Raum 2 ,0,16 AB ,"2,5"
+13,AE 3 20/3 ,#VALUE!,16 AB ,"2,5",Bel. Video Räume,0,16 AB ,"2,5",Res ,#VALUE!,16 AB ,"2,5"
+13,Abox einzelbüro ,#VALUE!,16 AB ,"2,5",Br Kanal Video Raum 2 ,0,16 AB ,"2,5",Res,0,16 AB ,"2,5"
+13,Reserve ,#VALUE!,16 AB ,"2,5",Res ,#VALUE!,16 AB ,"2,5",Res,0,16 AB ,"2,5"
+13,AE3 21/3 ,#VALUE!,16 AB ,"2,5",Res,0,16 AB ,"2,5",,,,
+13,AE 6 ,#VALUE!,16 AB ,"2,5",Res,0,16 AB ,"2,5",,,,
+13,Bel. Video Räume,0,16 AB ,"2,5",,,,,,,,
+13,Br Kanal Video Raum 2 ,0,16 AB ,"2,5",,,,,,,,
+13,Res ,#VALUE!,16 AB ,"2,5",,,,,,,,
+13,Res,0,16 AB ,"2,5",,,,,,,,
+13,Res,0,16 AB ,"2,5",,,,,,,,
+,,,,,,,,,,,,
+14,Messtechnik 001,0,10 AB ,"1,5",Messtechnik 001,#VALUE!,10 AB ,"1,5",AE Messtechnik 001,#VALUE!,16 AB ,"2,5"
+14,Taster örtlich ,0,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Reserve ,#VALUE!,16 AB ,"2,5"
+14,Reserve,#VALUE!,16 AB ,"1,5",Reserve ,#VALUE!,16 AB ,"1,5",Reserve ,#VALUE!,16 AB ,"2,5"
+14,Reserve,#VALUE!,10 AB ,"1,5",Reserve Notbeleuchtung Messtechnik ,#VALUE!,10 AB ,"1,5",Reserve ,#VALUE!,16 AB ,"2,5"
+14,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Messtechnik ,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001,#VALUE!,16 AB ,"2,5",Messtechnik 001,#VALUE!,16 AB ,"2,5",Messtechnik 001,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001,#VALUE!,16 AB ,"2,5",Messtechnik 001,#VALUE!,16 AB ,"2,5",Messtechnik 001,0,16 AB ,"2,5"
+14,Messtechnik 001,#VALUE!,16 AB ,"2,5",Messtechnik 001,0,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001,#VALUE!,16 AB ,"2,5",Messtechnik 001,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5"
+14,Reserve,-26023,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Reserve A Box auf Trasse ,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+14,Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,#VALUE!,16 AB ,"2,5",Reserve,0,16 AB ,"2,5"
+14,Reserve A Box auf Trasse ,#VALUE!,16 AB ,"2,5",Reserve A Box auf Trasse ,#VALUE!,16 AB ,"2,5",Reserve,0,16 AB ,"2,5"
+14,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Messtechnik 001 CEE 16 A,0,32 AB ,6
+14,Reserve,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",Messtechnik 001 Steckdosenverteiler Mennetes K.,0,63 A / 35 A ,6
+14,Reserve,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",Reserve,#VALUE!,63 A / 35 A ,6
+14,Messtechnik 001 CEE 16 A,0,32 AB ,6,Messtechnik 001 CEE 16 A,0,32 AB ,6,Klimagerät,#VALUE!,63 A / 35 A ,6
+14,Messtechnik 001 Steckdosenverteiler Mennetes K.,0,63 A / 35 A ,6,Messtechnik 001 Steckdosenverteiler Mennetes K.,0,63 A / 35 A ,6,,,,
+14,Reserve,#VALUE!,63 A / 35 A ,6,Reserve,#VALUE!,63 A / 35 A ,6,,,,
+14,Klimagerät,#VALUE!,63 A / 35 A ,6,Klimagerät,#VALUE!,63 A / 35 A ,6,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+15,Flur Grossraumbuero 008 Taster ortlich,0,10AB ,"1,5",Grossraumbuero 008 Taster ortlich,#VALUE!,10AB ,"1,5",Grossraumbuero 008 Taster ortlich,#VALUE!,10AB ,"1,5"
+15,Grossraumbuero 008 Taster ortlich,#VALUE!,10AB ,"1,5",Grossraumbuero 008 Taster ortlich,#VALUE!,10AB ,"1,5",Grossraumbuero 008 Taster ortlich,#VALUE!,10AB ,"1,5"
+15,Res. Fenster,#VALUE!,10AB ,"1,5",Wand Flur,#VALUE!,10AB ,"1,5",Wand Taster ortlich,#VALUE!,10AB ,"1,5"
+15,Vorr WC - Herren 029,#VALUE!,10AB ,"1,5",WC-Herren 015,#VALUE!,10AB ,"1,5",WC-Damen,#VALUE!,10AB ,"1,5"
+15,Teekuche,#VALUE!,10AB ,"1,5",Archiv 017,#VALUE!,10AB ,"1,5",Besprechung Taster,#VALUE!,10AB ,"1,5"
+15,"E 302 UV 1,OG 01-16",#VALUE!,10AB ,"1,5",21,#VALUE!,10AB ,"1,5",Maschr. 026 Treppenh. 025 BMZ Raum,#VALUE!,10AB ,"1,5"
+15,Buro 007,#VALUE!,10AB ,"1,5",Buro 003 Taster ortlich,#VALUE!,10AB ,"1,5","Buro 004,005",0,10AB ,"1,5"
+15,Flur 002 Taster ortlicj,0,10AB ,"1,5",Besprechungsraum 028 dimmbar,#VALUE!,10AB ,"1,5",Besprechungsraum 001 dimmbar,#VALUE!,10AB ,"1,5"
+15,Botbeleuchtung,#VALUE!,10AB ,"1,5",Res.,-26023,10AB ,"1,5",Plotter 1,#VALUE!,16 AB ,"2,5"
+15,Zugangskontrolle,#VALUE!,16 AB ,"2,5",Buro 03 klein,#VALUE!,16 AB ,"2,5",Fenster betriebs,#VALUE!,16 AB ,"2,5"
+15,"AE-007,008",#VALUE!,16 AB ,"2,5",AE-008,#VALUE!,16 AB ,"2,5",AE-008,#VALUE!,16 AB ,"2,5"
+15,AE-008,#VALUE!,16 AB ,"2,5",AE-008,#VALUE!,16 AB ,"2,5",AE-008,#VALUE!,16 AB ,"2,5"
+15,AE-008,#VALUE!,16 AB ,"2,5",AE1 R 008,0,16 AB ,"2,5",BMZ,0,16 AB ,"2,5"
+15,Plotter 2 R001,0,16 AB ,"2,5",AE-008,0,16 AB ,"2,5",AE-008,#VALUE!,16 AB ,"2,5"
+15,AE-008,#VALUE!,16 AB ,"2,5",AE-008,#VALUE!,16 AB ,"2,5",A-Box BS Zimmer,#VALUE!,16 AB ,"2,5"
+15,AE-008,#VALUE!,16 AB ,"2,5",AE-008,#VALUE!,16 AB ,"2,5",AE-019,#VALUE!,16 AB ,"2,5"
+15,"E-302-UV-1,OG-01-49",#VALUE!,16 AB ,"2,5",Fenster,#VALUE!,16 AB ,"2,5",Putzsteckd. Achse 10,#VALUE!,16 AB ,"2,5"
+15,Res. ,#VALUE!,16 AB ,"2,5",Putzstckd. Flur,#VALUE!,16 AB ,"2,5",EDV-VTI,#VALUE!,16 AB ,"2,5"
+15,EDV-VT2,#VALUE!,16 AB ,"2,5",EDV-VT3,#VALUE!,16 AB ,"2,5",Garderobe,#VALUE!,16 AB ,"2,5"
+15,Buero,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5","AE-001,008",#VALUE!,16 AB ,"2,5"
+15,Klima EDV,#VALUE!,16 AB ,"2,5",Garderobe,#VALUE!,16 AB ,"2,5",Archiv 017,#VALUE!,16 AB ,"2,5"
+15,Herd teekuche Res.,#VALUE!,16 AB ,"2,5",Herd teekuche Res.,#VALUE!,16 AB ,"2,5",Herd teekuche Res.,#VALUE!,16 AB ,"2,5"
+15,Urinale WC-H,#VALUE!,16 AB ,"2,5",UT-Gerat Teekueche,#VALUE!,16 AB ,"2,5",Geschirrspueler Teekuche,#VALUE!,16 AB ,"2,5"
+15,Reserv.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",putzraum,#VALUE!,16 AB ,"2,5"
+15,Res.,-2F01,6AB,"1,5",Reserve,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5"
+15,Reserve,0,16 AB ,"2,5",,#VALUE!,16 AB ,"2,5",,#VALUE!,16 AB ,"2,5"
+15,"E-302-UV-1,OG-01-72",0,16 AB ,"2,5","E-302-UV-1,OG-01-73",0,16 AB ,"2,5","E-302-UV-1,OG-01-74",0,16 AB ,"2,5"
+15,AE3,0,16 AB ,"2,5",AE4,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5"
+15,Res.,#VALUE!,16 AB ,"2,5",Not-Bel & FlurBel,#VALUE!,16 AB ,"2,5",Not-Bel & FlurBel,#VALUE!,16 AB ,"2,5"
+15,Res.,-3F01,6AB,"1,5",BMZ,#VALUE!,16 AB ,"2,5",AE2,#VALUE!,16 AB ,"2,5"
+15,Not-Bel & FlurBel,#VALUE!,16 AB ,"2,5",A-Box 1,#VALUE!,16 AB ,"2,5",Res 5,#VALUE!,16 AB ,"2,5"
+15,BMZ,#VALUE!,16 AB ,"2,5","Res. , bei 2",#VALUE!,16 AB ,"2,5","Res. , bei 2",#VALUE!,16 AB ,"2,5"
+15,AE3,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",AE2,#VALUE!,16 AB ,"2,5"
+15,Res.,-4F01,16 AB ,"2,5",Buero,#VALUE!,16 AB ,"2,5",Buro Treppenhaus,#VALUE!,16 AB ,"2,5"
+15,"Res. , bei 2",#VALUE!,16 AB ,"2,5",Buro AE1,#VALUE!,16 AB ,"2,5",AE2,#VALUE!,16 AB ,"2,5"
+15,Buro Treppenhaus,#VALUE!,16 AB ,"2,5",Reserve in Decke,#VALUE!,16 AB ,"2,5",Klima Betriebsrat,#VALUE!,16 AB ,"2,5"
+15,AE3,#VALUE!,16 AB ,"2,5",Drucker,0,16 AB ,"2,5",Drucker,0,16 AB ,"2,5"
+15,Res. ,-5F01,16 AB ,"2,5",Res.,0,16 AB ,"2,5",Res.,0,16 AB ,"2,5"
+15,2.fach werkschutz,#VALUE!,16 AB ,"2,5",Res.,0,16 AB ,"2,5",Res.,0,16 AB ,"2,5"
+15,AE3,#VALUE!,16 AB ,"2,5",Res.,0,16 AB ,"2,5",Res.,0,16 AB ,"2,5"
+15,Drucker,0,16 AB ,"2,5",Res. 102,0,16 AB ,"2,5",Res. 102,0,16 AB ,"2,5"
+15,Res.,0,16 AB ,"2,5",Res. 103,0,16 AB ,"2,5",Res. 103,0,16 AB ,"2,5"
+15,Res.,0,16 AB ,"2,5",Res. 104,#VALUE!,16 AB ,"2,5",Res. 104,#VALUE!,16 AB ,"2,5"
+15,Res.,0,16 AB ,"2,5",Res. 105,#VALUE!,16 AB ,"2,5",Res. 105,#VALUE!,16 AB ,"2,5"
+15,Res. 102,0,16 AB ,"2,5",Res. 106,#VALUE!,16 AB ,"2,5",Res. 106,#VALUE!,16 AB ,"2,5"
+15,Res. 103,0,16 AB ,"2,5",Res. 107,#VALUE!,16 AB ,"2,5",Res. 107,#VALUE!,16 AB ,"2,5"
+15,Res. 104,#VALUE!,16 AB ,"2,5",Res. 108,#VALUE!,16 AB ,"2,5",Res. 108,#VALUE!,16 AB ,"2,5"
+15,Res. 105,#VALUE!,16 AB ,"2,5",Res. 109,#VALUE!,16 AB ,"2,5",Res. 109,#VALUE!,16 AB ,"2,5"
+15,Res. 106,#VALUE!,16 AB ,"2,5",Res. 110,#VALUE!,16 AB ,"2,5",Res. 110,#VALUE!,16 AB ,"2,5"
+15,Res. 107,#VALUE!,16 AB ,"2,5",Res. 111,#VALUE!,16 AB ,"2,5",Res. 111,#VALUE!,16 AB ,"2,5"
+15,Res. 108,#VALUE!,16 AB ,"2,5",Res. 112,#VALUE!,16 AB ,"2,5",Res. 112,#VALUE!,16 AB ,"2,5"
+15,Res. 109,#VALUE!,16 AB ,"2,5",Res. 113,#VALUE!,16 AB ,"2,5",Res. 113,#VALUE!,16 AB ,"2,5"
+15,Res. 110,#VALUE!,16 AB ,"2,5",,,,,,,,
+15,Res. 111,#VALUE!,16 AB ,"2,5",,,,,,,,
+15,Res. 112,#VALUE!,16 AB ,"2,5",,,,,,,,
+15,Res. 113,#VALUE!,16 AB ,"2,5",,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+16,Arbeitssteckdose 400 V Res.,#VALUE!,16AB,"2,5",Arbeitssteckdose 400 V Res.,#VALUE!,16AB,"2,5",Arbeitssteckdose 400 V Res.,#VALUE!,16AB,"2,5"
+16,Arbeitssteckdose 400 V Res.,#VALUE!,16AB,"2,5",Arbeitssteckdose 400 V Res.,#VALUE!,16AB,"2,5",Arbeitssteckdose 400 V Res.,#VALUE!,16AB,"2,5"
+16,Kalte,0,10AB ,"1,5",Druckluft,#VALUE!,10AB ,"1,5",Treppenaufg.,#VALUE!,10AB ,"1,5"
+16,Lueftung,#VALUE!,10AB ,"1,5",WFW-Abschaltung,#VALUE!,10AB ,"1,5",Kalte,#VALUE!,10AB ,"1,5"
+16,Drudel.,F12,16AB,"2,5",Lueftung,#VALUE!,16AB,"2,5",UZ 01,#VALUE!,16AB,"2,5"
+16,Uz 02,#VALUE!,16AB,"2,5",,,,,BMZ,#VALUE!,16 B,"7,5"
+16,Durschflussmessung KEYENCE,#VALUE!,16B,"7,5",,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+17,CEE 32A,0,63A,6,CEE 32A,0,63A,6,CEE 32A,0,63A,6
+17,CEE 32A,0,63A,16,CEE 32A,0,63A,16,CEE 32A,0,63A,16
+17,CEE,0,63A,6,CEE,0,63A,6,CEE,0,63A,6
+17,Reserve,0,63A/63A,16,Reserve,0,63A/63A,16,Reserve,0,63A/63A,16
+17,Taktschrank 9,0,63A/25A,6,Taktschrank 9,0,63A/25A,6,Taktschrank 9,0,63A/25A,6
+17,CEE 32A,0,63A/35A,16,CEE 32A,0,63A/35A,16,CEE 32A,0,63A/35A,16
+17,CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5"
+17,CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5"
+17,CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5"
+17,CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5"
+17,Werkbank,#VALUE!,16AB,"2,5",Werkbank,#VALUE!,16AB,"2,5",Werkbank,#VALUE!,16AB,"2,5"
+17,CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5"
+17,CEE 16A,-26023,16AB,"2,5",CEE 16A,-26023,16AB,"2,5",CEE 16A,-26023,16AB,"2,5"
+17,CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5"
+17,CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5"
+17,CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5"
+17,Werkbank,0,16AB,"2,5",Werkbank,0,16AB,"2,5",Werkbank,0,16AB,"2,5"
+17,CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5",CEE 16A,0,16AB,"2,5"
+17,CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5"
+17,CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5",CEE 16A,#VALUE!,16AB,"2,5"
+17,Klimaanlage,#VALUE!,16AB,"2,5",Klimaanlage,#VALUE!,16AB,"2,5",Klimaanlage,#VALUE!,16AB,"2,5"
+17,Reserve Grossversuch 003,0,10AB ,"1,5",BMZ,#VALUE!,10AB ,"1,5",Notleuchten,#VALUE!,16AB,"2,5"
+17,Res.,#VALUE!,16AB,"2,5",Putzsteckdose 003,#VALUE!,16AB,"2,5",Steckdose 16A 003,#VALUE!,16AB,"2,5"
+17,Steckdose 16A 003,#VALUE!,16AB,"2,5",Steckdose 16A 003,#VALUE!,16AB,"2,5",Steckdose 16A 003,#VALUE!,16AB,"2,5"
+17,Steckdose 16A 003,#VALUE!,16AB,"2,5",Steckdose 16A 003,#VALUE!,16AB,"2,5",Steckdose 16A 003,#VALUE!,16AB,"2,5"
+17,Steckdose 16A 003,#VALUE!,16AB,"2,5",Steckdose 16A 003,#VALUE!,16AB,"2,5",Steckdose 16A 003,#VALUE!,16AB,"2,5"
+17,Steckdose 16A 003,#VALUE!,16AB,"2,5",Steckdose 16A 003,#VALUE!,16AB,"2,5",Rufschelle Telefon,#VALUE!,16AB,"2,5"
+17,beleuchtung,#VALUE!,16AB,"2,5",abwasserhebeanlage,#VALUE!,16AB,"2,5",Bel. frossversuch,#VALUE!,16AB,"2,5"
+17,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+17,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+18,Klimaschrank 004,0,10AB ,"1,5",Klimagerat,#VALUE!,10AB ,"1,5",Notleuchten,#VALUE!,10AB ,"1,5"
+18,Klimegerat Rechts,#VALUE!,10AB ,"1,5",AE08,#VALUE!,10AB ,"1,5",SE07,#VALUE!,16 AB ,"1,5"
+18,AE28,#VALUE!,16 AB ,"2,5","Steckdose 16A 004 AE25,1",#VALUE!,16 AB ,"2,5",Steckdose 16A 004 SE29,#VALUE!,16 AB ,"2,5"
+18,Steckdose 16A 004 SE29,#VALUE!,16 AB ,"2,5",Steckdose 16A 004 AE006,#VALUE!,16 AB ,"2,5",Steckdose 16A 004 AE037,#VALUE!,16 AB ,"2,5"
+18,Steckdose 16A 004 SE11,#VALUE!,16 AB ,"2,5", Steckdose 16A 004 SE40,#VALUE!,16 AB ,"2,5"," Steckdose 16A 004 AE24,1",#VALUE!,16 AB ,"2,5"
+18, Steckdose 16A 004 AE32,#VALUE!,16 AB ,"2,5",Steckdose 16A 004 AE32,#VALUE!,16 AB ,"2,5",Kaffe trocken steuerung,#VALUE!,16 AB ,"2,5"
+18, Steckdose 16A 004 AE41,0,16 AB ,"2,5", Steckdose 16A 004 AE45,0,16 AB ,"2,5", Steckdose 16A 004 AE13,#VALUE!,16 AB ,"2,5"
+18, Steckdose 16A 004 AE43,#VALUE!,16 AB ,"2,5", Steckdose 16A 004 AE43,#VALUE!,16 AB ,"2,5",Klima luft,-26023,16 AB ,"2,5"
+18,25.2,#VALUE!,16 AB ,"2,5",24.2,#VALUE!,16 AB ,"2,5",Rufschelle Telefon,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/26,#VALUE!,16 AB ,"2,5",CEE 16A 02/26,#VALUE!,16 AB ,"2,5",CEE 16A 02/26,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/27,#VALUE!,16 AB ,"2,5",CEE 16A 02/27,#VALUE!,16 AB ,"2,5",CEE 16A 02/27,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/34,#VALUE!,16 AB ,"2,5",CEE 16A 02/34,#VALUE!,16 AB ,"2,5",CEE 16A 02/34,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/30,#VALUE!,16 AB ,"2,5",CEE 16A 02/30,#VALUE!,16 AB ,"2,5",CEE 16A 02/30,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/36,#VALUE!,16 AB ,"2,5",CEE 16A 02/36,#VALUE!,16 AB ,"2,5",CEE 16A 02/36,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/46,#VALUE!,16 AB ,"2,5",CEE 16A 02/46,#VALUE!,16 AB ,"2,5",CEE 16A 02/46,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/31,#VALUE!,16 AB ,"2,5",CEE 16A 02/31,#VALUE!,16 AB ,"2,5",CEE 16A 02/31,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/38,#VALUE!,16 AB ,"2,5",CEE 16A 02/38,#VALUE!,16 AB ,"2,5",CEE 16A 02/38,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/35,0,16 AB ,"2,5",CEE 16A 02/35,0,16 AB ,"2,5",CEE 16A 02/35,0,16 AB ,"2,5"
+18,CEE 16A 02/43,0,16 AB ,"2,5",CEE 16A 02/43,0,16 AB ,"2,5",CEE 16A 02/43,0,16 AB ,"2,5"
+18,CEE 16A 02/15,0,16 AB ,"2,5",CEE 16A 02/15,0,16 AB ,"2,5",CEE 16A 02/15,0,16 AB ,"2,5"
+18,CEE 16A 02/14,0,16 AB ,"2,5",CEE 16A 02/14,0,16 AB ,"2,5",CEE 16A 02/14,0,16 AB ,"2,5"
+18,CEE 16A 02/09,#VALUE!,16 AB ,"2,5",CEE 16A 02/09,#VALUE!,16 AB ,"2,5",CEE 16A 02/09,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/04,#VALUE!,16 AB ,"2,5",CEE 16A 02/04,#VALUE!,16 AB ,"2,5",CEE 16A 02/04,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/03,#VALUE!,16 AB ,"2,5",CEE 16A 02/03,#VALUE!,16 AB ,"2,5",CEE 16A 02/03,#VALUE!,16 AB ,"2,5"
+18,CEE 16A 02/05,#VALUE!,16 AB ,"2,5",CEE 16A 02/05,#VALUE!,16 AB ,"2,5",CEE 16A 02/05,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/10,#VALUE!,16 AB ,"2,5", CEE 16A 02/10,#VALUE!,16 AB ,"2,5", CEE 16A 02/10,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/20,#VALUE!,16 AB ,"2,5", CEE 16A 02/20,#VALUE!,16 AB ,"2,5", CEE 16A 02/20,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/18,#VALUE!,16 AB ,"2,5", CEE 16A 02/18,#VALUE!,16 AB ,"2,5", CEE 16A 02/18,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/21,#VALUE!,16 AB ,"2,5", CEE 16A 02/21,#VALUE!,16 AB ,"2,5", CEE 16A 02/21,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/02,#VALUE!,16 AB ,"2,5", CEE 16A 02/02,#VALUE!,16 AB ,"2,5", CEE 16A 02/02,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/16,#VALUE!,16 AB ,"2,5", CEE 16A 02/16,#VALUE!,16 AB ,"2,5", CEE 16A 02/16,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/19,#VALUE!,16 AB ,"2,5", CEE 16A 02/19,#VALUE!,16 AB ,"2,5", CEE 16A 02/19,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/17,#VALUE!,16 AB ,"2,5", CEE 16A 02/17,#VALUE!,16 AB ,"2,5", CEE 16A 02/17,#VALUE!,16 AB ,"2,5"
+18, CEE 16A 02/01,#VALUE!,16 AB ,"2,5", CEE 16A 02/01,#VALUE!,16 AB ,"2,5", CEE 16A 02/01,#VALUE!,16 AB ,"2,5"
+18, Reserve,#VALUE!,16 AB ,"2,5", Reserve,#VALUE!,16 AB ,"2,5", Reserve,#VALUE!,16 AB ,"2,5"
+18,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+18,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+18,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+18,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+18,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+18,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+18,Taktschrank 8,#NAME?,16 AB ,"2,5",Taktschrank 8,#NAME?,16 AB ,"2,5",Taktschrank 8,#NAME?,16 AB ,"2,5"
+18,Taktschrank 1,#NAME?,16 AB ,"2,5",Taktschrank 1,#NAME?,16 AB ,"2,5",Taktschrank 1,#NAME?,16 AB ,"2,5"
+18,Taktschrank 7,#NAME?,16 AB ,"2,5",Taktschrank 7,#NAME?,16 AB ,"2,5",Taktschrank 7,#NAME?,16 AB ,"2,5"
+18,CEE32A 01/46,#NAME?,16 AB ,"2,5",CEE32A 01/46,#NAME?,16 AB ,"2,5",CEE32A 01/46,#NAME?,16 AB ,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+19,Dauerverusch 007,0,10AB ,"1,5",Notleuchten 007,#VALUE!,10AB ,"1,5",Steckdose 230/16A 007,#VALUE!,16 AB ,"2,5"
+19,Steckdose 230/16A 007,#VALUE!,16 AB ,"2,5",Steckdose 230/16A 007,#VALUE!,16 AB ,"2,5",Steckdose 230/16A 007,#VALUE!,16 AB ,"2,5"
+19,Steckdose 230/16A 007,#VALUE!,16 AB ,"2,5",Steckdose 230/16A 007,#VALUE!,16 AB ,"2,5",Steckdose 230/16A ,#VALUE!,16 AB ,"2,5"
+19,Dauerversuch 1 Rufschellen+2,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+19,Klimagerat,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+19,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+19,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+19,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+19,CEE 16A,-26023,16 AB ,"2,5",CEE 16A,-26023,16 AB ,"2,5",CEE 16A,-26023,16 AB ,"2,5"
+19,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+19,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+19,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+19,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+19,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+19,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+19,CEE 32A,0,63A/,6,CEE 32A,0,63A/,6,CEE 32A,0,63A/,6
+19,CEE 32A,0,63A/,6,CEE 32A,0,63A/,6,CEE 32A,0,63A/,6
+19,Steuerschrank 3,#VALUE!,63A/,6,Steuerschrank 3,#VALUE!,63A/,6,Steuerschrank 3,#VALUE!,63A/,6
+19,Steuerscharnk 2 ,#VALUE!,63A/,6,Steuerscharnk 2 ,#VALUE!,63A/,6,Steuerscharnk 2 ,#VALUE!,63A/,6
+19,Steuerschrank 4,#VALUE!,63A/,6,Steuerschrank 4,#VALUE!,63A/,6,Steuerschrank 4,#VALUE!,63A/,6
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+20,Dauerverusch006,0,10AB ,"1,5",Notleuchten 006,#VALUE!,10AB ,"1,5",Steckdose 230/16A 006,#VALUE!,16 AB ,"2,5"
+20,Steckdose 230/16A 006,#VALUE!,16 AB ,"2,5",Steckdose 230/16A 006,#VALUE!,16 AB ,"2,5",Steckdose 230/16A 006,#VALUE!,16 AB ,"2,5"
+20,Steckdose 230/16A 006,#VALUE!,16 AB ,"2,5",Steckdose 230/16A 006,#VALUE!,16 AB ,"2,5",Steckdose 230/16A 006,#VALUE!,16 AB ,"2,5"
+20, Steckdose 230/16A 006 Dauerversuch v9.8,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+20,Klimagerat,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+20,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+20,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+20,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+20,CEE 16A,-26023,16 AB ,"2,5",CEE 16A,-26023,16 AB ,"2,5",CEE 16A,-26023,16 AB ,"2,5"
+20,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+20,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+20,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+20,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+20,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+20,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+20,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+20,CEE 32A,0,63A/32A,6,CEE 32A,0,63A/32A,6,CEE 32A,0,63A/32A,6
+20,Steuerschrank 6,#VALUE!,63A/25A,6,Steuerschrank 6,#VALUE!,63A/25A,6,Steuerschrank 6,#VALUE!,63A/25A,6
+20,Steuerscharnk 5,#VALUE!,63A/25A,6,Steuerscharnk 5,#VALUE!,63A/25A,6,Steuerscharnk 5,#VALUE!,63A/25A,6
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+22,Schallraum 002,0,10AB ,"1,5",Schallraum Notleuchten,#VALUE!,10AB ,"1,5",Schallraum 002,#VALUE!,16 AB ,"2,5"
+22,Schallraum 002,#VALUE!,16 AB ,"2,5",Schallraum 002,#VALUE!,16 AB ,"2,5",Schallraum 002,#VALUE!,16 AB ,"2,5"
+22,Schallraum 002,#VALUE!,16 AB ,"2,5",Schallraum 002,#VALUE!,16 AB ,"2,5",Schallraum 002,#VALUE!,16 AB ,"2,5"
+22,Schallraum 002,#VALUE!,16 AB ,"2,5",Schallraum 002,#VALUE!,16 AB ,"2,5",Schallraum 002,#VALUE!,16 AB ,"2,5"
+22,A-Box Arbeitstisch,#VALUE!,16 AB ,"2,5",Reserve,0,16 AB ,"2,5",Reserve,0,16 AB ,"2,5"
+22,Reserve,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+22,Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5",Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5",Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5"
+22,Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5",Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5",Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5"
+22,Schallraum 002 CEE 16A,-26023,16 AB ,"2,5",Schallraum 002 CEE 16A,-26023,16 AB ,"2,5",Schallraum 002 CEE 16A,-26023,16 AB ,"2,5"
+22,Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5",Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5",Schallraum 002 CEE 16A,#VALUE!,16 AB ,"2,5"
+22,Klimagerat,#VALUE!,16 AB ,"2,5",Klimagerat,#VALUE!,16 AB ,"2,5",Klimagerat,#VALUE!,16 AB ,"2,5"
+22,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+22,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+22,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+22,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+22,CEE32A,0,32AC,"2,5",CEE32A,0,32AC,"2,5",CEE32A,0,32AC,"2,5"
+22,CEE 32A,0,63A/,6,CEE 32A,0,63A/,6,CEE 32A,0,63A/,6
+22,CEE32A,0,63A/,6,CEE32A,0,63A/,6,CEE32A,0,63A/,6
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+23,Meldung Unterspannung an DDC,-0F1-3,16A/6A,"1,5",Meldung Unterspannung ab DDC,-0F1-3,16A/6A,"1,5",Meldung Unterspannung ab DDC,-0F1-3,16A/6A,
+23,Res.,#VALUE!,10AB ,"1,5",Drucjertisch wareneingang1,#VALUE!,16 AB ,"2,5",Zeitnahme,#VALUE!,16 AB ,
+23,Res.,#VALUE!,10AB ,"1,5",Wareneingang 3,0,16 AB ,"2,5",QHH,#VALUE!,16 AB ,
+23,Datenschrank Hub,#VALUE!,16 AB ,"2,5",WAreneingang Kontrolle,#VALUE!,16 AB ,"2,5",Wareneingang Kontrolle unter 007,#VALUE!,16 AB ,
+23,Wareneingang2,0,16 AB ,"2,5",Schlense 1 + 2 und aussen,#VALUE!,16 AB ,"2,5",Res Klima,#VALUE!,16 AB ,
+23,QHH Flur seite,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",DR 7.1,#VALUE!,16 AB ,
+23,Schlense 1 + 2,#VALUE!,16 AB ,"2,5",Buro QMMA,0,16 AB ,"2,5",Buro QMM2,0,16 AB ,
+23,Klima,#VALUE!,16 AB ,"2,5",3 fach Waschbecken,#VALUE!,16 AB ,"2,5",Brand anlage,#VALUE!,16 AB ,"1,5"
+23,DO 7.2,0,16 AB ,"2,5",CC50,#VALUE!,16 AB ,"2,5",CC50,#VALUE!,16 AB ,"2,5"
+23,3 fach Waschbecken,0,16 AB ,"2,5",CC50,#VALUE!,16 AB ,"2,5",CC50,#VALUE!,16 AB ,"2,5"
+23,CC50,#VALUE!,16 AB ,"2,5",Durchlauferhitzer,#VALUE!,16 AB ,"2,5",Durchlauferhitzer,#VALUE!,16 AB ,"2,5"
+23,Durchlauferhitzer,#VALUE!,16 AB ,"2,5",CEE,#VALUE!,16 AB ,"2,5",CEE,#VALUE!,16 AB ,"2,5"
+23,CEE,#VALUE!,16 AB ,"2,5",Rolloret,#VALUE!,16 AB ,"2,5",Rolloret,#VALUE!,16 AB ,"2,5"
+23,Rolloret,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16 AB ,"2,5"
+23,CEE 16A,#VALUE!,16 AB ,"2,5",CEE 16 Reserve.,#VALUE!,16 AB ,"2,5",CEE 16 Reserve.,#VALUE!,16 AB ,"2,5"
+23,CEE 16 Reserve.,#VALUE!,16 AB ,"2,5",,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+24,Meldung Unterspannung an DDC,-0F1-3,16A/6A,"1,5",Meldung Unterspannung ab DDC,-0F1-3,16A/6A,"1,5",Meldung Unterspannung ab DDC,-0F1-3,16A/6A,"2,5"
+24,Res.,0,10AB ,"1,5",Res.,0,10AB ,"1,5",Res.,0,10AB ,"2,5"
+24,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,
+24,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,
+24,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,
+24,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,
+24,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16AB ,
+24,Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"1,5"
+24,Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Festanschluss WV Schleuse,#VALUE!,16AB ,"1,5"
+24,Festanschluss WV Schleuse,#VALUE!,16AB ,"2,5",Festanschluss WV Schleuse,#VALUE!,16AB ,"2,5",Festanschluss WV spule,#VALUE!,32AB,"1,5"
+24,Festanschluss WV spule,#VALUE!,32AB,6,Festanschluss WV spule,#VALUE!,32AB,6,Res.,#VALUE!,16 AB ,"1,5"
+24,Res.,0,10AB ,"1,5",uber Spuhle,0,16 AB ,"2,5",Res.,-26023,16 AB ,"1,5"
+24,kuhlschrank,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5"
+24,Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5"
+24,Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",Res.,0,16 AB ,"2,5"
+24,Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",Res.,0,16 AB ,"2,5"
+24,Res.,0,16 AB ,"2,5",Res.,0,16 AB ,"2,5",RWH Schrank,#VALUE!,16 AB ,6
+24,Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5"
+24,Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5"
+24,Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5"
+24,Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,"2,5"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+25,Res.,0,10AB ,"1,5",Res.,0,10AB ,"1,5",Res.,0,10AB ,"2,5"
+25,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,
+25,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,
+25,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,
+25,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,-,"2,5",Res.,#VALUE!,16 AB ,
+25,Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5"
+25,Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Festanschluss WV Schleuse,#VALUE!,16AB ,"2,5"
+25,Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Festanschluss WV Schleuse,#VALUE!,16AB ,"2,5"
+25,Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Festanschluss WV Schleuse,#VALUE!,16AB ,"2,5"
+25,neben Flureingang,#VALUE!,16AB ,"2,5",provisorische Not-Bel,#VALUE!,16AB ,"2,5",Res.,0,16AB ,"2,5"
+25,Res.,0,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5"
+25,Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5"
+25,Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5"
+25,Res.,0,16 AB ,"2,5",Res.,0,16 AB ,"2,5",Res.,0,16 AB ,"2,5"
+25,Res.,0,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5",Res.,#VALUE!,16 AB ,"2,5"
+25,EDV Schrank 009,#VALUE!,16 AB ,"2,5",Pumpe Waschbecken,#VALUE!,16 AB ,"2,5",Reserve ,#VALUE!,16 AB ,"2,5"
+25,Notlicht Gruppenvers.- gerät,#VALUE!,16 AB ,"2,5",Notlicht Gruppenvers.- gerät,#VALUE!,16 AB ,"2,5",Notlicht Gruppenvers.- gerät,#VALUE!,16 AB ,"2,5"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+26,Res.,0,10AB ,"1,5",Res.,0,10AB ,"1,5",Res.,0,10AB ,"1,5"
+26,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5"
+26,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5"
+26,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5"
+26,Res,#VALUE!,10AB ,"1,5",Res,#VALUE!,10AB ,"1,5",Res,#VALUE!,10AB ,"1,5"
+26,Res.,#VALUE!,10AB ,"1,5",Res.,#VALUE!,10AB ,"1,5",CEE,#VALUE!,16AB ,"2,5"
+26,CEE,#VALUE!,16AB ,"2,5",CEE,#VALUE!,16AB ,"2,5",CEE,#VALUE!,16AB ,"2,5"
+26,CEE,#VALUE!,16AB ,"2,5",CEE,#VALUE!,16AB ,"2,5",Festanschluß Tor5,#VALUE!,16AB ,"2,5"
+26,Festanschluß Tor5,#VALUE!,16AB ,"2,5",Festanschluß Tor5,#VALUE!,16AB ,"2,5",Festanschluß Tor4,#VALUE!,16AB ,"2,5"
+26,Festanschluß Tor4,#VALUE!,16AB ,"2,5",Festanschluß Tor4,#VALUE!,16AB ,"2,5",Festanschluß Tor3,#VALUE!,16AB ,"2,5"
+26,Festanschluß Tor3,#VALUE!,16AB ,"2,5",Festanschluß Tor3,#VALUE!,16AB ,"2,5",Klima,0,16AB ,"2,5"
+26,Durchgangsbel.,#VALUE!,10 AB ,"1,5",Doppelsteckdose Ladestation bei Torschleier für Lade Erhaltung,0,16AB ,"2,5","Bel. Tor 4,5,6,7 Hofbeleuchtung Vordach",#VALUE!,16AB ,"2,5"
+26,Zeitnahme ,#VALUE!,16AB ,"2,5",Doppelsteckdose Ladestation bei Torschleier für Lade Erhaltung,#VALUE!,16 AB ,"2,5",Netzlei | Steckd. allgm,#VALUE!,16AB ,"2,5"
+26,Steckd. allgm Pausensignal außen ,#VALUE!,16AB ,"2,5",Steckd. allgm Res ,#VALUE!,16AB ,"2,5",Steckd allgm.,#VALUE!,16AB ,"2,5"
+26,Steckd. allgm  Res ,#VALUE!,16AB ,"2,5",Steckd. allgm Res ,#VALUE!,16AB ,"2,5",Reserve ,0,16AB ,"2,5"
+26,Reserve ,0,16AB ,"2,5",Reserve ,0,16AB ,"2,5",Notlicht Gruppenvers.- gerät,0,16AB ,"2,5"
+26,Notlicht Gruppenvers.- gerät,0,16AB ,"2,5",Notlicht Gruppenvers.- gerät,0,16AB ,"2,5",CEE 16A Papierpresse,#VALUE!,16AB ,"2,5"
+26,CEE 16A Papierpresse,#VALUE!,16AB ,"2,5",CEE 16A Papierpresse,#VALUE!,16AB ,"2,5",,,,
+,,,,,,,,,,,,
+32,Bürofläche 002 1.OG,0,10 AB ,"1,5",Bürofläche 002 1.OG,#VALUE!,10 AB ,"1,5",Bürofläche 002 1.OG,#VALUE!,10 AB ,"1,5"
+32,Taster örtlich ,0,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5"
+32,Reserve ,#VALUE!,10 AB ,"1,5",EDV-VT 1.OG Raum 003 Technik-001 1.OG,#VALUE!,10 AB ,"1,5",Reserve ,#VALUE!,10 AB ,"1,5"
+32,Besprechungsraum 2-fach U.P,#VALUE!,10 AB ,"1,5",Reserve Border,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5"
+32,Bürofläche 007 EG ,#VALUE!,10 AB ,"1,5",Bürofläche 007 EG ,#VALUE!,10 AB ,"1,5",Reserve Küche,#VALUE!,10 AB ,"1,5"
+32,Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Bürofläche 007 EG ,#VALUE!,10 AB ,"1,5"
+32,Raum 009 EG,#VALUE!,10 AB ,"1,5",Flur 008 EG ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5"
+32,WC-H 001 EG ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",Raum 004 EG Raum 006 EG ,#VALUE!,10 AB ,"1,5"
+32,Reserve ,#VALUE!,16 AB ,"2,5",Flur 003 EG,#VALUE!,10 AB ,"1,5",Reserve,#VALUE!,10 AB ,"1,5"
+32,AE 1.OG,0,16 AB ,"2,5",Taster örtlich ,#VALUE!,10 AB ,"1,5",AE 1.OG,0,16 AB ,"2,5"
+32,Putzsteckdose 1.OG Bürofläche,#VALUE!,16 AB ,"2,5",AE 1.OG,#VALUE!,16 AB ,"2,5",Putzsteckdose 1.OG,#VALUE!,16 AB ,"2,5"
+32,EDV-VT 1-OG DOC Wand,#VALUE!,16 AB ,"2,5",AE 1.OG,#VALUE!,16 AB ,"2,5",EDV-VT 1.OG Doc Tür ,#VALUE!,16 AB ,"2,5"
+32,AE -EG Bürofläche ,#VALUE!,16 AB ,"2,5",Reserve Küche,-26023,16 AB ,"2,5",AE EG,#VALUE!,16 AB ,"2,5"
+32,AE-EG,#VALUE!,16 AB ,"2,5",Reserve Klima ,#VALUE!,16 AB ,"2,5",AE-EG Bürofläche ,#VALUE!,16 AB ,"2,5"
+32,AE-EG,#VALUE!,16 AB ,"1,5",AE-EG,#VALUE!,16 AB ,"2,5",Putzsteckdose Raum 004 EG Raum 006 EG ,#VALUE!,16 AB ,"2,5"
+32,Getränke 1 ,#VALUE!,16 AB ,"1,5",Putzsteckdose ,#VALUE!,16 AB ,"2,5",Urinal WC-Herren ,#VALUE!,16 AB ,"2,5"
+32,Getränke 2 ,#VALUE!,16 AB ,"1,5",Klimagerät EDV Raum ,0,16 AB ,"2,5",Arbeitssteckdose ,#VALUE!,16 AB ,"2,5"
+32,Teeküche ,#VALUE!,16 AB ,"1,5",Reserve,#VALUE!,16 AB ,"2,5",Durchlauferhiitzer Damen WC EG,#VALUE!,35A,
+32,Durchlauferhiitzer Damen WC EG,#VALUE!,35A,,Geschirrspüler ,#VALUE!,16 AB ,"2,5",,,,
+32,,,,,Getränke 3 ,#VALUE!,16 AB ,"2,5",,,,
+32,,,,,Durchlauferhiitzer Damen WC EG,#VALUE!,35A,,,,,
+,,,,,,,,,,,,
+33,Außenbildungswerkstatt 004 EG Reserve A-Box auf Trasse,0,10 AB ,"1,5",Ausbildung Schulung 003 EG Reserve A-Box auf Trasse ,#VALUE!,10 AB ,"1,5",Kundenend. Werkstatt 001 EG ,#VALUE!,10 AB ,"1,5"
+33,Kunden. Werkstatt 001 EG Reserve A box Trasse,#VALUE!,10 AB ,"1,5",Kundendienst Messraum 002 EG ,#VALUE!,10 AB ,"1,5",Küche inclusive Labor Doppelstecke ,#VALUE!,C16A,"1,5"
+33,Taster örtlich ,#VALUE!,10 AB ,"1,5",3x Küche inclusive Labor 1 ,#VALUE!,C16A,"2,5",AE Büro OG,#VALUE!,16 AB ,"1,5"
+33,Küche inclusive Labor A,#VALUE!,C16A,"2,5",AE Ausbildung Schulungsraum ,#VALUE!,16 AB ,"2,5",AE Ausbildung Schulungsraum ,#VALUE!,16 AB ,"2,5"
+33,AE Büro OG,#VALUE!,16 AB ,"2,5",Reserve A-Box auf Trasse,#VALUE!,C16A,"2,5",Reserve A-Box auf Trasse,#VALUE!,16 AB ,"2,5"
+33,Ausbildung. Werkstatt | Kanalsteckdosen ,#VALUE!,C10A,"1,5",Büro 002 ,#VALUE!,10 AB ,1.5,Reserve ,#VALUE!,10 AB ,1.5
+33,Büro 10 OG,#VALUE!,16 AB ,"2,5",Taster örtlich ,#VALUE!,10 AB ,1.5,Reserve,#VALUE!,10 AB ,1.5
+33,Büro 002,#VALUE!,10 AB ,"1,5",Büro 002 ,#VALUE!,10 AB ,1.5,AE Büro OG,#VALUE!,16 AB ,"2,5"
+33,Taster örtlich ,#VALUE!,10 AB ,"1,5",Taster örtlich ,#VALUE!,10 AB ,1.5,Ae Büro OG,#VALUE!,16 AB ,"2,5"
+33,Büro 002 ,#VALUE!,10 AB ,"1,5",Notbeleuchtung ,#VALUE!,10 AB ,"1,5",AE Büro OG,#VALUE!,16 AB ,"2,5"
+33,Taster örtlich ,#VALUE!,10 AB ,"1,5",AE Büro OG,#VALUE!,16 AB ,"2,5",Klima Qmm,0,16 AB ,"2,5"
+33,Hebeanlage ,#VALUE!,10 AB ,"1,5",Ae Büro OG,#VALUE!,16 AB ,"2,5",Res,#VALUE!,16 AB ,"2,5"
+33,Reserve ,#VALUE!,10 AB ,"1,5",AE,#VALUE!,16 AB ,"2,5",Res,#VALUE!,16 AB ,"2,5"
+33,AE Büro OG ,#VALUE!,16 AB ,"2,5",Klima Qmm,0,16 AB ,"2,5",Ausb. Werkstatt 004 Projektor ,0,16 AB ,"2,5"
+33,AE Büro OG ,#VALUE!,16 AB ,"2,5",Res,#VALUE!,16 AB ,"2,5",Ausb Werkstatt CEE 16 A Kreissäge ,-26023,16 AB ,"2,5"
+33,AE,#VALUE!,16 AB ,"2,5",Res,#VALUE!,16 AB ,"2,5",Ausb Werkstatt CEE 16 A Fräßmaschine,#VALUE!,16 AB ,"2,5"
+33,Klima Qmm,0,16 AB ,"2,5",Ausb. Werkstatt 004 Werkbank ,#VALUE!,16 AB ,"2,5",Ausb Werkstatt CEE 16 A Drehmaschine ,#VALUE!,16 AB ,"2,5"
+33,Res,#VALUE!,16 AB ,"2,5",Ausb Werkstatt CEE 16 A Kreissäge ,-26023,16 AB ,"2,5",Reserve ,#VALUE!,16 AB ,"2,5"
+33,Res,#VALUE!,16 AB ,"2,5",Ausb Werkstatt CEE 16 A Fräßmaschine,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+33,Putzstecldose EG,#VALUE!,16 AB ,"2,5",Ausb Werkstatt CEE 16 A Drehmaschine ,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+33,Reserve ,#VALUE!,16 AB ,"2,5",Ausb Werkstatt CEE 16 A Schleifbock Lampe  ,#VALUE!,16 AB ,"2,5",Reserve,#NAME?,16 AC,"2,5"
+33,Ausb Werkstatt CEE 16 A Kreissäge ,-26023,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Reserve,#NAME?,16 AC,"2,5"
+33,Ausb Werkstatt CEE 16 A Fräßmaschine,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",Ausb. Werkstatt 004 ehem.,#VALUE!,16 AB ,"2,5"
+33,Ausb Werkstatt CEE 16 A Drehmaschine ,#VALUE!,16 AB ,"2,5",Reserve,#NAME?,16 AC,"2,5",E-301d-UV-EG-01-40.1,#NAME?,16 AC ,"2,5"
+33,Reserve,#VALUE!,16 AB ,"2,5",Reserve,#NAME?,16 AC,"2,5",Reserve ,#NAME?,16 AC ,"2,5"
+33,Reserve,#VALUE!,16 AB ,"2,5",Aus. Werkstatt 004 Labor 1 Kanal Fenster ,#VALUE!,16 AB ,"2,5",Reserve ,#NAME?,16 AC ,"2,5"
+33,Reserve,#NAME?,16 AC,"2,5",Ausb. Werkstatt 004 ,0,16 AB ,"2,5",Kundendienst Werkst. 001 AE Fenster Mitte ,#VALUE!,16 AB ,"2,5"
+33,Reserve,#NAME?,16 AC,"2,5",E-301d-UV-EG-01-40.1,#NAME?,16 AC ,"2,5",Reserve ,#VALUE!,16 AB ,"2,5"
+33,Aus. Werkstatt 004 ,#VALUE!,16 AB ,"2,5",Reserve ,#NAME?,16 AC ,"2,5",KD-Messraum 002 Lüftungsanlage ,#VALUE!,16 AB ,"2,5"
+33,E-301d-UV-01-38,0,16 AB ,"2,5",Reserve ,#NAME?,16 AC ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+33,E-301d-UV-EG-01-40.1,#NAME?,16 AC ,"2,5",Kundendienst Werkst. 001Schreibtisch ,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+33,Reserve ,#NAME?,16 AC ,"2,5",Reserve ,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5"
+33,Reserve ,#NAME?,16 AC ,"2,5",KD-Messraum 002 Lüftungsanlage ,#VALUE!,16 AB ,"2,5",KD Messraum 002 CE 16 A,#VALUE!,16 AB ,"2,5"
+33,Kundendienst Werkst. 001 AE Fenster rechts,0,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",KD Messraum 002 AE-Kanal ,#VALUE!,16 AB ,"2,5"
+33,Reserve ,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",,,,
+33,Reserve ,#VALUE!,16 AB ,"2,5",A Box in 5VC 2 an der Bühne ,#VALUE!,16 AB ,"2,5",,,,
+33,KD-Messraum 002 Lüftungsanlage ,#VALUE!,16 AB ,"2,5",KD Messraum 002 CE 16 A,#VALUE!,16 AB ,"2,5",,,,
+33,Reserve,#VALUE!,16 AB ,"2,5",KD Messraum 002 AE-Wand ,#VALUE!,16 AB ,"2,5",,,,
+33,Reserve,#VALUE!,16 AB ,"2,5",,,,,,,,
+33,Klimaschrank -IC Flur. ,#VALUE!,16 AB ,"2,5",,,,,,,,
+33,KD Messraum 002 CE 16 A,#VALUE!,16 AB ,"2,5",,,,,,,,
+33,KD Messraum 002 Raum ,#VALUE!,16 AB ,"2,5",,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+34,A1,0,10AB ,"1,5",B1,#VALUE!,10AB ,"1,5",Notbeleuchtung,#VALUE!,10AB ,"1,5"
+34,Treppe taster ortlich,#VALUE!,10AB ,"1,5",Notbel. Flur 301.A,#VALUE!,16AB ,"2,5",Reserve ,#VALUE!,16 AB ,"1,5"
+34,Druckanzeiger schallraum,#VALUE!,10AB ,"1,5",Werkbank,#VALUE!,16 AB ,"2,5",Steckd. 230v/16A,#VALUE!,16 AB ,"2,5"
+34,klimagerat,#VALUE!,16 AB ,"2,5",Steckd. 230v/16A 4,#VALUE!,16 AB ,"2,5",Res.,0,10AN,"1,5"
+34,Steckd. 230v /16A,#VALUE!,16 AB ,"2,5",Steckd. 230v /16A,#VALUE!,16 AB ,"2,5",Steckd. 230v /16A,#VALUE!,16 AB ,"2,5"
+34,Steckd. 230v /16A,#VALUE!,16 AB ,"2,5",Werknank 5,#VALUE!,16 AB ,"2,5",Aof trasse,#VALUE!,16 AB ,"2,5"
+34,Steckd. 230v /16A,#VALUE!,16 AB ,"2,5",Steckd. 230v /16A,#VALUE!,16 AB ,"2,5",Steckd. 230v /16A,0,16 AB ,"2,5"
+34,Steckd. 230v /16A,0,16 AB ,"2,5",Steckd. 230v /16A,0,16 AB ,"2,5",Steckd. 230v /16A,0,16 AB ,"2,5"
+34,Steckd. 230v /16A,#VALUE!,16 AB ,"2,5",Reserve Trasse,#VALUE!,16 AB ,"2,5",CEE 16A,#VALUE!,16AB ,"2,5"
+34,CEE 16A,#VALUE!,16AB ,"2,5",CEE 16A,#VALUE!,16AB ,"2,5",CEE 16A AOT trasse,#VALUE!,16AB ,"2,5"
+34,CEE 16A AOT trasse,#VALUE!,16AB ,"2,5",CEE 16A AOT trasse,#VALUE!,16AB ,"2,5",CEE 16A AOT trasse,#VALUE!,16AB ,"2,5"
+34,CEE 16A AOT trasse,#VALUE!,16AB ,"2,5",CEE 16A AOT trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5"
+34,CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5"
+34,CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5"
+34,CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5"
+34,CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5"
+34,CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,#VALUE!,16AB ,"2,5",CEE 16A Reserve ann Trasse,0,16AB ,"2,5"
+34,CEE 16A Reserve ann Trasse,0,16AB ,"2,5",CEE 16A Reserve ann Trasse,0,16AB ,"2,5",CEE 16A,#VALUE!,16AB ,"2,5"
+34,CEE 16A,#VALUE!,16AB ,"2,5",CEE 16A,#VALUE!,16AB ,"2,5",CEE 16A Treppe,#VALUE!,16AB ,"2,5"
+34,CEE 16A Treppe,#VALUE!,16AB ,"2,5",CEE 16A Treppe,#VALUE!,16AB ,"2,5",Festanschluss 400V / 16A Reserve an Trasse,#VALUE!,16AB ,"2,5"
+34,Festanschluss 400V / 16A Reserve an Trasse,#VALUE!,16AB ,"2,5",Festanschluss 400V / 16A Reserve an Trasse,#VALUE!,16AB ,"2,5",CEE 16A Treppe,#VALUE!,16AB ,"2,5"
+34,CEE 16A Treppe,#VALUE!,16AB ,"2,5",CEE 16A Treppe,#VALUE!,16AB ,"2,5",Festanschluss 400V/ 16A Drehbanke,#VALUE!,16AB ,"2,5"
+34,Festanschluss 400V/ 16A Drehbanke,#VALUE!,16AB ,"2,5",Festanschluss 400V/ 16A Drehbanke,#VALUE!,16AB ,"2,5",Reserve an Trasse,#VALUE!,16AB ,"2,5"
+34,Reserve an Trasse,#VALUE!,16AB ,"2,5",Reserve an Trasse,#VALUE!,16AB ,"2,5",Reserve an Trasse,#VALUE!,16AB ,"2,5"
+34,Reserve an Trasse,#VALUE!,16AB ,"2,5",Reserve an Trasse,#VALUE!,16AB ,"2,5",Reserve,#VALUE!,16AB ,"2,5"
+34,Reserve,#VALUE!,16AB ,"2,5",Reserve,#VALUE!,16AB ,"2,5",CEE 16A Werbank 4,#VALUE!,16AB ,"2,5"
+34,CEE 16A Werbank 4,#VALUE!,16AB ,"2,5",CEE 16A Werbank 4,#VALUE!,16AB ,"2,5",CEE 16A Werbank 5,#VALUE!,16AB ,"2,5"
+34,CEE 16A Werbank 5,#VALUE!,16AB ,"2,5",CEE 16A Werbank 5,#VALUE!,16AB ,"2,5",CEE 16A Werbank 6,#VALUE!,16AB ,"2,5"
+34,CEE 16A Werbank 6,#VALUE!,16AB ,"2,5",CEE 16A Werbank 6,#VALUE!,16AB ,"2,5",CEE 16A Werbank 1,#VALUE!,16AB ,"2,5"
+34,CEE 16A Werbank 1,#VALUE!,16AB ,"2,5",CEE 16A Werbank 1,#VALUE!,16AB ,"2,5",Reserve an Trasse,#VALUE!,16AB ,"2,5"
+34,Reserve an Trasse,#VALUE!,16AB ,"2,5",Reserve an Trasse,#VALUE!,16AB ,"2,5",CEE 16A,#VALUE!,16AB ,"2,5"
+34,CEE 16A,#VALUE!,16AB ,"2,5",CEE 16A,#VALUE!,16AB ,"2,5",Defekt,#VALUE!,16AB ,"2,5"
+34,Defekt,#VALUE!,16AB ,"2,5",Defekt,#VALUE!,16AB ,"2,5",CEE 16A,#VALUE!,16AB ,"2,5"
+34,CEE 16A,#VALUE!,16AB ,"2,5",CEE 16A,#VALUE!,16AB ,"2,5",Reserve,#VALUE!,16AB ,"2,5"
+34,Reserve,#VALUE!,16AB ,"2,5",Reserve,#VALUE!,16AB ,"2,5",Reserve,#VALUE!,16AB ,"2,5"
+34,Reserve,#VALUE!,16AB ,"2,5",Reserve,#VALUE!,16AB ,"2,5",Reserve,#VALUE!,16AB ,"2,5"
+34,Reserve,#VALUE!,16AB ,"2,5",Reserve,#VALUE!,16AB ,"2,5",CEE 32A,0,63A/,6
+34,CEE 32A,0,63A/,6,CEE 32A,0,63A/,6,Reserve A-Box auf Trasse,0,63A/35A,6
+34,Reserve A-Box auf Trasse,0,63A/35A,6,Reserve A-Box auf Trasse,0,63A/35A,6,CEE 63A auf Trasse,0,63A/,16
+34,CEE 63A auf Trasse,0,63A/,16,CEE 63A auf Trasse,0,63A/,16,Reserve an Trasse,0,63A/,16
+34,Reserve an Trasse,0,63A/,16,Reserve an Trasse,0,63A/,16,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+35,Druckluftanzeiger 1,0,NH1/160A,70,Druckluftanzeiger 1,0,NH1/160A,70,Druckluftanzeiger 1,0,NH1/160A,70
+35,Druckluftanzeiger 2,0,NH1/160A,70,Druckluftanzeiger 2,0,NH1/160A,70,Druckluftanzeiger 2,0,NH1/160A,70
+35,Druckluftanzeiger 3,0,NH1/160A,70,Druckluftanzeiger 3,0,NH1/160A,70,Druckluftanzeiger 3,0,NH1/160A,70
+35,Reserve,0,63A,16,Reserve,0,63A,16,Reserve,0,63A,16
+35,CEE 16A,0,63A/35A,16,CEE 16A,0,63A/35A,16,CEE 16A,0,63A/35A,16
+35,Res.,0,63A/,16,Res.,0,63A/,16,Res.,0,63A/,16
+35,Reserve. Trockner rechts 2,0,63A/,16,Reserve. Trockner rechts 2,0,63A/,16,Reserve. Trockner rechts 2,0,63A/,16
+35,Absorpitionstrockner 1,#VALUE!,16 AB ,"2,5",Absorpitionstrockner 2,#VALUE!,16 AB ,"2,5",VErbundssteuerung Sch-schrank,#VALUE!,16 AB ,"2,5"
+35,Absorpitionstrockner 2,#VALUE!,16 AB ,"2,5",Reserve,#VALUE!,16 AB ,"2,5",,,,
+35,VErbundssteuerung Sch-schrank,#VALUE!,16 AB ,"2,5",,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+38,Schiebetor 10m Hofeinfahrt,0,16AB ,"2,5",Schiebetor 10m Hofeinfahrt,0,16AB ,"2,5",Schiebetor 10m Hofeinfahrt,0,16AB ,"2,5"
+38,Schiebetor 12m Kuche,#VALUE!,16AB ,"2,5",Schiebetor 12m Kuche,#VALUE!,16AB ,"2,5",Schiebetor 12m Kuche,#VALUE!,16AB ,"2,5"
+35,Schrankenanlage Anlieferung,#VALUE!,16AB ,"2,5",Schrankenanlage Anlieferung,#VALUE!,16AB ,"2,5",Schrankenanlage Anlieferung,#VALUE!,16AB ,"2,5"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+101,Tor Schleuse innen,#VALUE!,16AB ,"2,5",Videokamera,#VALUE!,16AB ,"2,5",Ladestation,#VALUE!,16AB ,"2,5"
+101,Ladestation 5.2.15,#VALUE!,C20,"2,5",Teekueche Arbeitsplatte,#VALUE!,16AB ,"2,5",Schleuse Beleuchtung,#VALUE!,16AB ,"2,5"
+101,Roletor ,#VALUE!,16AB ,"2,5",Res.,#VALUE!,16AB ,"2,5",301 d 10h,#VALUE!,16AB ,"2,5"
+101,Kamera unter dach und Anlieferung ,#VALUE!,16AB ,"2,5",Siedle-Kamera Anlieferung,#VALUE!,16AB ,"2,5",Tor Wareneingang neu,#VALUE!,16AB ,"2,5"
+101,Tor Waremeingang,#VALUE!,16AB ,"2,5",E-301-EG-05-17 am Regal,#VALUE!,16AB ,"2,5",hebebuhne LKW,#VALUE!,16AB ,"2,5"
+101,hebebuhne LKW,#VALUE!,16AB ,"2,5",hebebuhne LKW,#VALUE!,16AB ,"2,5",,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+102,Mitte Raum + Säule Backmann ,-1F1,16 AB ,"2,5",Mitte Raum Dach Beamer ,#VALUE!,16 AB ,"2,5",Mitte Raum Dach ,#VALUE!,16 AB ,2.5
+102,Bele. unten ,-1F4,16 AB ,"2,5",unten Bele. ,#VALUE!,16 AB ,"2,5",Lift Belen ,#VALUE!,16 AB ,2.5
+102,Piekatog. ,#NAME?,16 AB ,"2,5",BR. K. links,-3F2,16 AB ,"2,5",BR.K. Hinten links ,-3F3,16 AB ,2.5
+102,Lift ,-3F1,16 AB ,"2,5",AP Unten ,-3F5,16 AB ,"2,5",Ap unten Mitte Pfeilen ,-3F6,16 AB ,2.5
+102,BR. K. Rechts,-3F3,16 AB ,"2,5",unten AP Mitte Pfeile,-3F8,16 AB ,"2,5",unten AP Mitte Pfeile,-3F9,16 AB ,"2,5"
+102,unten Ladegeräte ,-3F7,16 AB ,"2,5",Fi Leiste EG,-3F11,16 AB ,"2,5",,,,
+102,unten AP Mitte Pfeile,-3F10,16 AB ,"2,5",,,,,,,,
+102,Lift ,-6F1-3,16 AB ,"2,5",,,,,,,,
+102,CEE EG Stand Bohrmaschine ,-60000009,16 AB ,"2,5",,,,,,,,
